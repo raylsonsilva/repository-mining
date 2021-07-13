@@ -1,0 +1,1261 @@
+issue_id,creator,created_at,closed_at,labels,n_comments,n_reactions,is_locked
+942298762,mcl21014,2021-07-12T17:47:45Z,,['Bug 🐞'],2,0,False
+942207474,SimonBasca,2021-07-12T15:58:23Z,,['Bug 🐞'],2,0,False
+942168193,SimonBasca,2021-07-12T15:13:30Z,,['Bug 🐞'],0,0,False
+942151305,SimonBasca,2021-07-12T14:57:32Z,,['Bug 🐞'],0,0,False
+942144807,SimonBasca,2021-07-12T14:50:34Z,,['Bug 🐞'],0,0,False
+942095779,SimonBasca,2021-07-12T14:00:50Z,,['Bug 🐞'],0,0,False
+941344508,bash321,2021-07-11T00:12:18Z,,['Bug 🐞'],0,0,False
+941292917,pyrho,2021-07-10T17:36:10Z,2021-07-10T19:29:03Z,['Bug 🐞'],1,0,False
+941292126,pyrho,2021-07-10T17:31:30Z,2021-07-12T08:45:20Z,"['Bug 🐞', 'qa-triaged']",1,0,False
+940463007,isabelrios,2021-07-09T06:32:28Z,,"['eng:automation', 'eng:ui-test']",0,0,False
+940276240,DieNand,2021-07-08T22:52:30Z,,['Bug 🐞'],3,0,False
+940213206,theodore-earnin,2021-07-08T20:52:49Z,,['Bug 🐞'],0,0,False
+940164066,data-sync-user,2021-07-08T19:40:31Z,,['Bug 🐞'],3,0,False
+940012014,isabelrios,2021-07-08T16:06:10Z,,"['Bug 🐞', 'Needs-UX', 'P2']",2,0,False
+939351307,st3fan,2021-07-08T00:07:36Z,2021-07-09T17:01:09Z,['P16107'],0,0,False
+938627185,SimonBasca,2021-07-07T08:23:10Z,,"['Bug 🐞', 'P3']",0,0,False
+937319418,jungaretti,2021-07-05T19:19:31Z,,['Feature-Request'],1,0,False
+937107306,ghost,2021-07-05T13:43:22Z,,['Feature-Request'],0,0,False
+936912485,badboy,2021-07-05T09:54:02Z,,['Bug 🐞'],1,0,False
+936715010,nates,2021-07-05T05:52:54Z,,"['Bug 🐞', 'Contributor OK', 'P3']",1,0,False
+935771214,gutley,2021-07-02T13:26:28Z,,['Feature-Request'],0,0,False
+935711855,SimonBasca,2021-07-02T12:11:06Z,,['Bug 🐞'],0,0,False
+934973615,gutley,2021-07-01T15:36:11Z,,['Feature-Request'],0,0,False
+934818102,SimonBasca,2021-07-01T13:00:06Z,,['Bug 🐞'],1,0,False
+934532104,BigSamSampson,2021-07-01T07:57:31Z,,['Bug 🐞'],1,0,False
+932153976,ChaiTRex,2021-06-29T02:49:47Z,,"['Bug 🐞', 'P2']",0,0,False
+931763771,mcl21014,2021-06-28T16:49:47Z,,['Feature-Request'],0,0,False
+929671774,cpeterso,2021-06-24T22:47:21Z,,"['Bug 🐞', 'P3']",0,0,False
+929666859,cpeterso,2021-06-24T22:41:08Z,,"['Bug 🐞', 'P2']",0,0,False
+927735734,huonw,2021-06-23T00:28:05Z,,"['Bug 🐞', 'Feature-Request', 'Needs-UX']",0,0,False
+927728810,huonw,2021-06-23T00:17:26Z,,"['Bug 🐞', 'Feature-Request']",0,0,False
+927507674,AaronMT,2021-06-22T18:11:42Z,2021-06-24T19:28:21Z,['Bug 🐞'],1,0,False
+927286648,isabelrios,2021-06-22T14:18:20Z,2021-06-23T08:03:37Z,"['eng:automation', 'eng:intermittent-test']",0,0,False
+926777503,tiQu,2021-06-22T03:04:13Z,2021-06-23T07:39:10Z,"['Bug 🐞', 'qa-triaged']",5,0,False
+926091361,isabelrios,2021-06-21T10:55:07Z,2021-06-22T11:08:25Z,['eng:automation'],2,0,False
+925566928,mferrera,2021-06-20T10:20:35Z,,"['Bug 🐞', 'Crash']",0,0,False
+924820225,SimonBasca,2021-06-18T11:37:04Z,,['Bug 🐞'],0,0,False
+924403281,fernando9431,2021-06-17T23:02:49Z,,['Bug 🐞'],2,0,False
+924058098,data-sync-user,2021-06-17T15:25:26Z,2021-06-22T16:24:21Z,['QA Verified'],1,0,False
+923621726,abceleung,2021-06-17T08:16:54Z,2021-06-17T10:25:23Z,"['Bug 🐞', 'qa-triaged']",5,0,False
+923357219,brandyblacktea,2021-06-17T03:00:04Z,2021-06-17T10:33:30Z,['qa-triaged'],1,0,False
+923175896,lougeniaC64,2021-06-16T22:33:52Z,2021-06-23T17:34:04Z,"['P2', 'QA Verified']",3,0,False
+923102953,dnarcese,2021-06-16T21:05:21Z,,"['Bug 🐞', 'P1']",1,0,False
+922889800,travis79,2021-06-16T17:29:27Z,,['Bug 🐞'],1,0,False
+922642642,lnyng,2021-06-16T13:51:42Z,,"['Bug 🐞', 'Crash', 'P1']",2,0,False
+921506244,data-sync-user,2021-06-15T15:13:03Z,2021-07-07T19:26:53Z,['QA Verified'],1,0,False
+921299820,SimonBasca,2021-06-15T11:33:37Z,,"['Bug 🐞', 'P3']",0,0,False
+921184437,SimonBasca,2021-06-15T09:14:36Z,,"['Bug 🐞', 'P2']",0,0,False
+921182087,isabelrios,2021-06-15T09:12:02Z,2021-06-17T15:43:31Z,"['eng:automation', 'eng:intermittent-test', 'eng:ui-test']",0,0,False
+921179365,SimonBasca,2021-06-15T09:09:02Z,,"['Bug 🐞', 'P2']",0,0,False
+921174833,SimonBasca,2021-06-15T09:04:23Z,,"['Bug 🐞', 'Contributor OK', 'P2']",0,0,False
+921007928,bli-mozbj,2021-06-15T05:40:17Z,2021-06-24T18:11:31Z,['Bug 🐞'],1,0,False
+920805519,Shawon4877,2021-06-14T21:55:34Z,2021-06-15T08:19:15Z,['qa-triaged'],1,0,False
+920450244,SimonBasca,2021-06-14T14:06:51Z,,"['Bug 🐞', 'P1']",0,0,False
+920280274,isabelrios,2021-06-14T10:39:35Z,2021-06-24T15:39:16Z,['eng:automation'],1,0,False
+919940523,aegatlin,2021-06-14T02:04:20Z,2021-06-14T09:58:45Z,['Bug 🐞'],2,0,False
+919692241,usernameandpassword1,2021-06-13T01:21:25Z,,['Bug 🐞'],1,0,False
+918588953,SimonBasca,2021-06-11T10:52:42Z,,['Feature-Request'],0,0,False
+918528943,SimonBasca,2021-06-11T09:57:54Z,2021-06-14T10:58:14Z,"['Bug 🐞', 'QA Verified', 'Release Blocker']",3,0,False
+917798467,data-sync-user,2021-06-10T19:38:39Z,,['P2'],1,0,False
+915978194,SimonBasca,2021-06-09T09:13:57Z,,['Bug 🐞'],0,0,False
+915734755,karlcow,2021-06-09T03:27:01Z,,['Bug 🐞'],3,0,False
+915357423,matt3948,2021-06-08T18:54:28Z,2021-06-08T20:35:31Z,['Bug 🐞'],1,0,False
+914695086,ghost,2021-06-08T09:37:02Z,2021-06-14T20:10:42Z,"['Bug 🐞', 'P2']",0,0,False
+914565880,SimonBasca,2021-06-08T08:22:57Z,,['Bug 🐞'],0,0,False
+913749130,SimonBasca,2021-06-07T16:49:31Z,,['Bug 🐞'],0,0,False
+913705392,SimonBasca,2021-06-07T15:59:10Z,,['Bug 🐞'],0,0,False
+913697575,SimonBasca,2021-06-07T15:50:30Z,,['Bug 🐞'],0,0,False
+913683310,SimonBasca,2021-06-07T15:33:36Z,,['Bug 🐞'],1,0,False
+913281337,isabelrios,2021-06-07T08:30:00Z,2021-06-08T08:00:19Z,['eng:automation'],0,0,False
+913177162,BigSamSampson,2021-06-07T06:51:32Z,,['Bug 🐞'],0,0,False
+913142384,BigSamSampson,2021-06-07T06:13:51Z,2021-06-07T07:58:21Z,"['Bug 🐞', 'qa-triaged']",1,0,False
+912948212,eliserichards,2021-06-06T21:05:42Z,2021-06-08T20:03:16Z,"['Bug 🐞', 'QA Verified']",1,0,False
+912943087,DCzajkowski,2021-06-06T20:40:24Z,2021-06-08T20:47:32Z,['Bug 🐞'],2,1,False
+912878685,jmiguy,2021-06-06T16:20:58Z,2021-07-07T18:08:14Z,"['Bug 🐞', 'Needs-UX', 'P1', 'QA Verified']",4,0,False
+912875568,jmiguy,2021-06-06T16:09:13Z,2021-06-07T08:22:19Z,['qa-triaged'],1,0,False
+912342922,eliserichards,2021-06-05T16:46:31Z,,['Bug 🐞'],1,0,False
+911223572,BrightScreenTV,2021-06-04T07:41:34Z,,['Bug 🐞'],0,0,False
+911166768,karlcow,2021-06-04T06:28:28Z,,['Bug 🐞'],1,0,False
+910325026,SimonBasca,2021-06-03T09:54:40Z,,"['Bug 🐞', 'P2']",1,0,False
+909998020,palex88,2021-06-03T01:02:07Z,,"['Bug 🐞', 'P2']",1,0,False
+909726147,jakobkappel,2021-06-02T17:30:34Z,,"['Bug 🐞', 'P2']",0,0,False
+908603834,bruhdev1290,2021-06-01T19:06:31Z,2021-06-03T16:49:31Z,['Bug 🐞'],2,0,False
+907804157,karlcow,2021-06-01T02:05:10Z,2021-06-01T16:06:17Z,"['Feature-Request', 'QA Verified']",3,0,False
+907747554,PapiPeppers,2021-05-31T22:58:30Z,,"['Bug 🐞', 'P1']",16,2,False
+907349701,BigSamSampson,2021-05-31T10:41:56Z,,['Bug 🐞'],0,0,False
+906585546,Ryo-ryomac,2021-05-30T00:01:55Z,2021-06-07T16:56:20Z,['Bug 🐞'],4,0,False
+906550615,F3000,2021-05-29T20:11:55Z,,['Feature-Request'],0,0,False
+905385864,SimonBasca,2021-05-28T13:13:43Z,2021-06-11T10:16:29Z,['Bug 🐞'],3,0,False
+905279895,SimonBasca,2021-05-28T12:06:03Z,,"['Bug 🐞', 'P3']",0,0,False
+905227392,SimonBasca,2021-05-28T11:31:16Z,2021-05-28T15:29:35Z,['Bug 🐞'],1,0,False
+904977807,SimonBasca,2021-05-28T08:51:13Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+903948059,isabelrios,2021-05-27T16:07:22Z,2021-06-10T22:49:03Z,['QA Verified'],1,0,False
+902912603,jodyheavener,2021-05-26T21:00:29Z,,"['Bug 🐞', 'P3']",0,0,False
+900987999,data-sync-user,2021-05-25T15:30:18Z,2021-05-28T02:14:42Z,['QA Verified'],2,0,False
+900576797,gutley,2021-05-25T09:58:34Z,2021-05-25T10:44:56Z,['Bug 🐞'],2,0,False
+899703695,dareducky,2021-05-24T14:14:41Z,,"['Feature-Request', 'qa-triaged']",3,0,False
+899606145,SimonBasca,2021-05-24T12:15:08Z,,"['Accessibility', 'Bug 🐞', 'Needs-UX', 'P2']",0,0,False
+898802895,KLszTsu,2021-05-22T13:25:10Z,,"['Bug 🐞', 'Crash', 'P1']",6,0,False
+898655742,athomasmoz,2021-05-21T23:07:13Z,,"['Bug 🐞', 'P1']",0,0,False
+897784997,isabelrios,2021-05-21T07:48:24Z,2021-06-03T16:58:29Z,['eng:intermittent-test'],1,0,False
+897041779,BigSamSampson,2021-05-20T16:06:21Z,,"['Bug 🐞', 'P2']",1,0,False
+896997300,gutley,2021-05-20T15:38:50Z,,['Bug 🐞'],0,0,False
+896862338,gutley,2021-05-20T13:49:49Z,2021-06-10T17:58:42Z,"['Bug 🐞', 'QA Verified']",3,0,False
+896657826,SimonBasca,2021-05-20T11:07:59Z,,"['Bug 🐞', 'P3']",1,0,False
+896647777,SimonBasca,2021-05-20T10:59:42Z,2021-05-20T21:32:09Z,"['Bug 🐞', 'P1', 'QA Verified']",3,0,False
+896564663,SimonBasca,2021-05-20T09:50:22Z,,"['Bug 🐞', 'P2']",0,0,False
+896444219,isabelrios,2021-05-20T07:57:16Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+896438907,trongnhan68,2021-05-20T07:51:51Z,,['Feature-Request'],0,0,False
+895804399,data-sync-user,2021-05-19T19:28:32Z,,['P2'],0,0,False
+895731928,arthuredelstein,2021-05-19T18:03:18Z,,['Feature-Request'],0,0,False
+895621775,athomasmoz,2021-05-19T16:00:49Z,2021-05-20T15:45:49Z,['Bug 🐞'],4,0,False
+895408479,st3fan,2021-05-19T12:52:24Z,,['security'],3,0,False
+895139890,gutley,2021-05-19T08:19:03Z,2021-06-28T12:24:51Z,"['Bug 🐞', 'Needs-UX', 'P1', 'QA Verified']",7,0,False
+894522965,gutley,2021-05-18T15:45:45Z,2021-05-18T15:53:31Z,['Bug 🐞'],2,0,False
+894466179,SimonBasca,2021-05-18T14:47:27Z,2021-05-24T08:37:53Z,['Bug 🐞'],4,0,False
+894451524,SimonBasca,2021-05-18T14:32:51Z,2021-05-20T10:10:15Z,['Bug 🐞'],1,0,False
+894446247,SimonBasca,2021-05-18T14:27:45Z,2021-05-20T10:11:09Z,['Bug 🐞'],1,0,False
+894432315,topotropic,2021-05-18T14:14:50Z,2021-05-18T14:29:31Z,['Feature-Request'],1,0,False
+894331973,SimonBasca,2021-05-18T12:35:50Z,2021-05-19T22:27:43Z,"['Bug 🐞', 'QA Verified']",2,0,False
+894310794,SimonBasca,2021-05-18T12:11:22Z,,"['Accessibility', 'Bug 🐞', 'P2']",0,0,False
+894300851,SimonBasca,2021-05-18T11:59:22Z,2021-05-19T22:27:43Z,"['Bug 🐞', 'QA Verified']",1,0,False
+894298136,SimonBasca,2021-05-18T11:55:47Z,2021-05-20T10:12:53Z,['Bug 🐞'],1,0,False
+894293719,SimonBasca,2021-05-18T11:50:14Z,2021-05-19T22:27:43Z,"['Bug 🐞', 'QA Verified']",1,0,False
+894287488,SimonBasca,2021-05-18T11:42:10Z,,"['Accessibility', 'Bug 🐞', 'P3']",0,0,False
+894278831,SimonBasca,2021-05-18T11:31:42Z,2021-05-20T10:11:12Z,['Bug 🐞'],1,0,False
+894275646,SimonBasca,2021-05-18T11:27:39Z,2021-05-19T22:27:42Z,"['Bug 🐞', 'QA Verified']",2,0,False
+894270691,isabelrios,2021-05-18T11:21:09Z,,"['Bug 🐞', 'P1']",1,0,False
+894269298,SimonBasca,2021-05-18T11:19:23Z,,"['Accessibility', 'Bug 🐞', 'P2']",0,0,False
+893879726,shepazon,2021-05-18T02:20:04Z,,['Feature-Request'],0,0,False
+893586641,nbhasin2,2021-05-17T18:24:02Z,2021-05-17T19:12:00Z,"['Accessibility', 'Bug 🐞', 'QA Verified']",1,0,False
+893427770,SimonBasca,2021-05-17T15:04:49Z,,"['Bug 🐞', 'P2', 'eng:bug-auto-found']",0,0,False
+893419230,data-sync-user,2021-05-17T14:56:15Z,,['P2'],1,0,False
+893408132,SimonBasca,2021-05-17T14:44:46Z,,"['Bug 🐞', 'P3']",0,0,False
+893151857,SimonBasca,2021-05-17T09:47:04Z,,"['Bug 🐞', 'P2', 'qa-triaged']",0,0,False
+893138290,SimonBasca,2021-05-17T09:31:07Z,,"['Bug 🐞', 'P3']",1,0,False
+893133283,SimonBasca,2021-05-17T09:25:19Z,,"['Bug 🐞', 'P2']",0,0,False
+893116172,isabelrios,2021-05-17T09:06:14Z,2021-06-03T13:10:47Z,['eng:automation'],0,0,False
+892163181,mtreichel,2021-05-14T18:57:36Z,2021-05-17T08:51:47Z,"['Bug 🐞', 'qa-triaged']",1,0,False
+891983632,gutley,2021-05-14T14:46:29Z,,"['Bug 🐞', 'P2']",1,0,False
+891149931,SimonBasca,2021-05-13T15:41:14Z,2021-05-17T19:47:22Z,"['Bug 🐞', 'P1', 'QA Verified']",1,0,False
+891133033,alenevans,2021-05-13T15:19:48Z,2021-06-08T20:48:49Z,['Feature-Request'],1,0,False
+890574111,scarhead7,2021-05-12T23:56:31Z,2021-06-14T16:34:37Z,"['Bug 🐞', 'P1']",4,0,False
+890496154,PandorasFox,2021-05-12T21:18:05Z,2021-05-13T18:39:25Z,['Bug 🐞'],2,0,False
+890374076,electricRGB,2021-05-12T18:30:09Z,2021-06-08T20:49:13Z,"['Bug 🐞', 'QA Verified']",1,0,False
+888960073,karlcow,2021-05-11T22:39:53Z,,['Feature-Request'],0,0,False
+887908179,data-sync-user,2021-05-11T17:07:18Z,2021-06-24T18:29:31Z,['QA Verified'],3,0,False
+887799093,data-sync-user,2021-05-11T16:26:19Z,2021-05-13T15:11:38Z,['QA Verified'],3,0,False
+887688365,data-sync-user,2021-05-11T15:46:20Z,2021-06-10T16:52:19Z,['QA Verified'],5,0,False
+887404903,st3fan,2021-05-11T14:10:08Z,,['P16107'],0,0,False
+881584965,ErikeSu,2021-05-09T01:35:56Z,,['Feature-Request'],1,0,False
+878715461,mimi89999,2021-05-07T10:07:44Z,,['Feature-Request'],0,0,False
+878648902,SimonBasca,2021-05-07T09:14:57Z,2021-05-14T09:09:29Z,['Bug 🐞'],3,0,False
+877611311,nbhasin2,2021-05-06T15:18:17Z,,"['Bug 🐞', 'P2']",1,0,False
+877601640,AndiAJ,2021-05-06T15:09:55Z,,['Feature-Request'],0,0,False
+877592358,muhasturk,2021-05-06T15:00:31Z,,"['Bug 🐞', 'P3']",0,0,False
+877554836,SimonBasca,2021-05-06T14:23:58Z,2021-05-13T22:24:14Z,"['Bug 🐞', 'QA Verified']",1,0,False
+877523593,SimonBasca,2021-05-06T13:52:45Z,,"['Bug 🐞', 'P2']",2,0,False
+877514482,SimonBasca,2021-05-06T13:44:14Z,2021-05-17T15:44:52Z,"['Bug 🐞', 'QA Verified']",1,0,False
+877499535,nbhasin2,2021-05-06T13:29:26Z,,"['Bug 🐞', 'P2']",0,0,False
+877497486,electricRGB,2021-05-06T13:27:18Z,2021-05-17T13:24:44Z,"['Bug 🐞', 'Regression']",1,0,False
+877487730,SimonBasca,2021-05-06T13:16:57Z,2021-05-13T18:46:49Z,['Bug 🐞'],1,0,False
+877485814,SimonBasca,2021-05-06T13:14:58Z,2021-05-06T17:20:23Z,['Bug 🐞'],1,0,False
+877429062,AndiAJ,2021-05-06T12:09:57Z,2021-05-06T16:58:18Z,['Bug 🐞'],1,0,False
+877418720,AndiAJ,2021-05-06T11:56:43Z,,"['Bug 🐞', 'P3']",0,0,False
+877391433,AndiAJ,2021-05-06T11:21:34Z,2021-05-13T18:50:12Z,['Bug 🐞'],1,0,False
+877346597,AndiAJ,2021-05-06T10:26:34Z,2021-05-17T19:45:18Z,"['Bug 🐞', 'QA Verified']",11,0,False
+877192703,isabelrios,2021-05-06T07:52:02Z,2021-05-06T13:28:24Z,"['Bug 🐞', 'Regression', 'eng:bug-auto-found']",2,0,False
+876950015,nbhasin2,2021-05-06T00:01:54Z,2021-05-07T18:43:40Z,"['Bug 🐞', 'QA Verified']",5,0,False
+876938548,dnarcese,2021-05-05T23:32:43Z,2021-05-17T15:34:14Z,"['Bug 🐞', 'P2', 'QA Verified']",1,0,False
+876929866,dnarcese,2021-05-05T23:12:44Z,2021-06-01T16:08:00Z,"['Bug 🐞', 'Needs-UX', 'P2', 'QA Verified']",4,0,False
+876714727,dnarcese,2021-05-05T18:14:34Z,,['Feature-Request'],0,0,False
+876598946,isabelrios,2021-05-05T15:52:00Z,2021-05-06T16:55:26Z,['Bug 🐞'],1,0,False
+876496867,SimonBasca,2021-05-05T14:13:32Z,2021-05-06T08:10:31Z,['Bug 🐞'],3,0,False
+876435461,isabelrios,2021-05-05T13:11:32Z,2021-05-06T13:22:37Z,['eng:automation'],0,0,False
+876326958,SimonBasca,2021-05-05T10:56:42Z,2021-05-17T19:34:06Z,"['Bug 🐞', 'P1', 'QA Verified']",1,0,False
+876261798,SimonBasca,2021-05-05T09:36:17Z,,"['Bug 🐞', 'Needs-UX', 'P3']",0,0,False
+876255657,SimonBasca,2021-05-05T09:28:17Z,,"['Bug 🐞', 'P3']",0,0,False
+876249665,SimonBasca,2021-05-05T09:20:54Z,2021-05-14T08:57:05Z,"['Bug 🐞', 'P3']",2,0,False
+875607651,nbhasin2,2021-05-04T16:01:06Z,,"['Crash', 'P3']",0,0,False
+875606186,nbhasin2,2021-05-04T15:59:17Z,,"['Crash', 'P3']",0,0,False
+875602775,nbhasin2,2021-05-04T15:55:13Z,,"['Crash', 'P2']",1,0,False
+874975309,data-sync-user,2021-05-03T23:08:28Z,,"['Bug 🐞', 'P2', 'qa-triaged']",1,0,False
+874763706,nsusr,2021-05-03T17:30:51Z,,['Feature-Request'],1,0,False
+874677804,data-sync-user,2021-05-03T15:31:13Z,2021-05-04T19:17:22Z,['QA Verified'],1,0,False
+873764722,TollyThaWally,2021-05-01T20:43:27Z,,"['Bug 🐞', 'P2']",0,0,False
+873658298,selimsumlu,2021-05-01T12:19:48Z,,"['Bug 🐞', 'P2']",0,0,False
+871488158,BenWu,2021-04-29T20:36:45Z,2021-05-07T19:29:25Z,['2'],3,0,False
+870732081,isabelrios,2021-04-29T08:04:10Z,2021-04-29T17:59:30Z,"['Bug 🐞', 'QA Verified', 'eng:bug-auto-found']",1,0,False
+870620223,bnoctis,2021-04-29T05:18:44Z,,"['Bug 🐞', 'P3']",4,0,False
+869082089,cpeterso,2021-04-27T17:33:06Z,,"['Bug 🐞', 'P1']",1,0,False
+868264570,karlcow,2021-04-26T22:59:56Z,2021-05-03T21:23:17Z,"['Bug 🐞', 'QA Verified']",2,0,False
+867632911,SimonBasca,2021-04-26T12:08:54Z,,"['Bug 🐞', 'Contributor OK']",0,0,False
+867363012,karlcow,2021-04-26T07:27:43Z,,"['Bug 🐞', 'P2', 'qa-triaged']",1,0,False
+866317674,cpeterso,2021-04-23T17:52:37Z,,['Bug 🐞'],8,0,False
+866003878,Duckbilled,2021-04-23T11:03:15Z,2021-04-29T19:46:36Z,"['Bug 🐞', 'QA Verified', 'qa-triaged']",11,0,False
+865359839,dnarcese,2021-04-22T19:06:06Z,,['P2'],2,0,False
+864166645,00JohnD,2021-04-21T18:44:50Z,,['Feature-Request'],0,0,False
+864118768,st3fan,2021-04-21T17:36:58Z,,"['P1', 'P16107']",1,0,False
+864110011,st3fan,2021-04-21T17:24:31Z,,"['P1', 'P16107']",0,0,False
+864088734,st3fan,2021-04-21T16:58:51Z,2021-06-17T15:01:33Z,"['P1', 'P16107']",2,0,False
+864017575,kraxel,2021-04-21T15:33:16Z,,['Crash'],5,0,False
+862909588,SimonBasca,2021-04-20T14:58:31Z,2021-05-05T11:26:51Z,"['Bug 🐞', 'P1', 'QA Verified']",1,0,False
+862676529,isabelrios,2021-04-20T10:37:57Z,2021-06-25T06:54:52Z,"['Bug 🐞', 'Regression']",1,0,False
+862557478,isabelrios,2021-04-20T08:23:10Z,2021-04-21T07:28:30Z,['eng:automation'],1,0,False
+861369154,isabelrios,2021-04-19T14:27:16Z,2021-06-24T18:52:44Z,['Bug 🐞'],0,0,False
+861357090,isabelrios,2021-04-19T14:15:18Z,,['eng:automation'],0,0,False
+861004303,isabelrios,2021-04-19T07:38:33Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+861002680,isabelrios,2021-04-19T07:36:39Z,,['eng:intermittent-test'],0,0,False
+860794082,dudss37,2021-04-18T23:34:16Z,2021-04-19T07:34:17Z,['Bug 🐞'],0,0,False
+860598971,hayya33,2021-04-18T07:49:01Z,2021-04-19T07:34:30Z,['Bug 🐞'],2,0,False
+859689338,SimonBasca,2021-04-16T10:31:53Z,,['eng:automation'],0,0,False
+859137568,nbhasin2,2021-04-15T18:17:58Z,2021-05-31T14:31:06Z,['QA Verified'],11,0,False
+859046938,boek,2021-04-15T16:26:26Z,,['Technical Debt'],0,0,False
+859046084,boek,2021-04-15T16:25:22Z,2021-07-08T21:31:51Z,['Bug 🐞'],5,0,False
+859027983,softvision-oana-arbuzov,2021-04-15T16:02:41Z,,"['Bug 🐞', 'P1']",1,0,False
+858607404,isabelrios,2021-04-15T07:58:12Z,2021-06-21T14:45:52Z,"['eng:automation', 'eng:intermittent-test']",1,0,False
+858414433,karlcow,2021-04-15T02:23:48Z,,"['Bug 🐞', 'P2']",0,0,False
+858335480,krupa-raj,2021-04-14T23:18:44Z,2021-05-10T15:13:52Z,"['Bug 🐞', 'P1']",1,4,False
+857497064,karlcow,2021-04-14T03:56:42Z,2021-04-14T08:54:31Z,"['Bug 🐞', 'qa-triaged']",3,0,False
+857125745,boek,2021-04-13T16:23:36Z,2021-04-30T22:05:42Z,"['Bug 🐞', 'P1', 'QA Verified', 'security']",3,0,False
+856858276,isabelrios,2021-04-13T11:16:03Z,,['eng:automation'],0,0,False
+856697324,isabelrios,2021-04-13T08:03:10Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+855749991,tillchen,2021-04-12T09:14:43Z,,"['Bug 🐞', 'P2']",0,0,False
+855241959,cpeterso,2021-04-11T07:38:21Z,,"['Bug 🐞', 'P3']",2,0,False
+854873410,boek,2021-04-09T21:46:57Z,,"['1', 'Bug 🐞', 'Technical Debt']",0,0,False
+854856693,data-sync-user,2021-04-09T21:11:50Z,,['Feature-Request'],1,0,False
+854405641,isabelrios,2021-04-09T10:43:47Z,,"['Bug 🐞', 'P2', 'Regression']",0,0,False
+854402532,isabelrios,2021-04-09T10:39:33Z,2021-04-13T03:46:19Z,"['Bug 🐞', 'QA Verified', 'Regression']",1,0,False
+853710337,isabelrios,2021-04-08T17:53:49Z,,['eng:automation'],0,0,False
+853325002,isabelrios,2021-04-08T10:33:02Z,2021-04-19T12:14:36Z,"['Bug 🐞', 'P1', 'QA Verified', 'eng:bug-auto-found']",5,0,False
+851823367,ksy36,2021-04-06T21:27:23Z,,"['Bug 🐞', 'P2']",1,0,False
+851656276,data-sync-user,2021-04-06T17:45:11Z,2021-04-28T16:25:29Z,['QA Verified'],2,0,False
+851596078,boek,2021-04-06T16:29:47Z,,"['Bug 🐞', 'Crash', 'P1']",0,0,False
+851485697,isabelrios,2021-04-06T14:28:29Z,,"['Bug 🐞', 'eng:bug-auto-found']",0,0,False
+850890658,MilanPatel718,2021-04-06T02:13:19Z,,['Bug 🐞'],0,0,False
+850391377,isabelrios,2021-04-05T14:06:21Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+849941753,isabelrios,2021-04-04T19:13:04Z,,"['eng:automation', 'eng:intermittent-test']",1,0,False
+849551811,ksy36,2021-04-03T01:33:20Z,,"['Bug 🐞', 'P2']",0,0,False
+849097341,SimonBasca,2021-04-02T09:08:51Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+848983275,karlcow,2021-04-02T05:54:26Z,,"['Bug 🐞', 'P2']",0,0,False
+848746934,ksy36,2021-04-01T19:55:27Z,2021-05-14T12:03:25Z,"['Bug 🐞', 'P1', 'QA Verified']",10,1,False
+848108542,karlcow,2021-04-01T07:17:09Z,,['Bug 🐞'],1,0,False
+847530082,eliserichards,2021-03-31T23:29:30Z,2021-04-01T18:21:53Z,['Bug 🐞'],1,0,False
+846261875,SimonBasca,2021-03-31T09:17:55Z,2021-03-31T10:39:33Z,"['eng:automation', 'eng:intermittent-test']",0,0,False
+844677946,isabelrios,2021-03-30T14:49:14Z,2021-04-08T07:41:43Z,['eng:automation'],2,0,False
+844394999,SimonBasca,2021-03-30T11:21:02Z,2021-03-30T18:13:47Z,"['Bug 🐞', 'QA Verified']",1,0,False
+844224482,isabelrios,2021-03-30T08:29:29Z,2021-03-30T20:09:53Z,['eng:intermittent-test'],1,0,False
+843055039,isabelrios,2021-03-29T07:16:09Z,,"['eng:automation', 'eng:intermittent-test']",13,0,False
+843054068,isabelrios,2021-03-29T07:14:52Z,2021-04-05T20:47:08Z,"['eng:automation', 'eng:intermittent-test']",3,0,False
+842541307,timstr,2021-03-27T15:56:01Z,,"['Bug 🐞', 'P3']",0,0,False
+842474511,hayya33,2021-03-27T10:32:15Z,2021-03-29T16:41:41Z,['Bug 🐞'],1,0,False
+842325335,thomasmaurel,2021-03-26T22:04:20Z,2021-04-22T16:59:37Z,['Bug 🐞'],4,0,False
+841884288,gutley,2021-03-26T12:08:10Z,2021-05-19T21:12:12Z,"['P1', 'QA Verified']",3,1,False
+841185311,data-sync-user,2021-03-25T18:10:45Z,,['Crash'],0,0,False
+840890979,isabelrios,2021-03-25T12:44:29Z,,['eng:automation'],0,0,False
+840883283,isabelrios,2021-03-25T12:34:48Z,2021-06-23T09:01:47Z,['eng:automation'],1,0,False
+840842332,SimonBasca,2021-03-25T11:39:28Z,,"['Bug 🐞', 'Crash', 'P2']",0,0,False
+840519759,brampitoyo,2021-03-25T03:22:51Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840517983,brampitoyo,2021-03-25T03:18:56Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840511027,brampitoyo,2021-03-25T03:01:37Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840507422,brampitoyo,2021-03-25T02:52:27Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840504579,brampitoyo,2021-03-25T02:45:07Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840493070,brampitoyo,2021-03-25T02:16:31Z,2021-06-03T19:38:16Z,['QA Verified'],2,0,False
+840314708,Spax123,2021-03-24T23:21:35Z,2021-03-25T09:53:16Z,"['Bug 🐞', 'qa-triaged']",1,0,False
+839525492,SimonBasca,2021-03-24T09:30:00Z,,"['Bug 🐞', 'Crash', 'P2']",1,0,False
+839318845,brampitoyo,2021-03-24T03:57:03Z,2021-04-27T16:44:45Z,['QA Verified'],1,0,False
+838497577,isabelrios,2021-03-23T08:54:57Z,2021-03-24T09:23:23Z,"['eng:automation', 'eng:intermittent-test']",1,0,False
+838496739,isabelrios,2021-03-23T08:54:02Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+838494224,isabelrios,2021-03-23T08:50:47Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+838307776,boek,2021-03-23T03:13:23Z,2021-06-25T06:48:08Z,"['Bug 🐞', 'security']",0,0,False
+838049618,dnarcese,2021-03-22T19:40:20Z,2021-04-29T17:19:04Z,"['Bug 🐞', 'QA Verified']",1,0,False
+837915118,SimonBasca,2021-03-22T16:48:27Z,,"['Bug 🐞', 'Crash', 'P1']",0,0,False
+836647525,papac25,2021-03-20T03:38:00Z,2021-03-22T13:11:10Z,['Bug 🐞'],0,0,False
+836177007,isabelrios,2021-03-19T16:32:07Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+835365378,jrconlin,2021-03-18T23:34:46Z,,"['Bug 🐞', 'P2']",0,0,False
+834594775,isabelrios,2021-03-18T09:53:24Z,2021-03-18T13:23:15Z,"['eng:automation', 'eng:intermittent-test']",2,0,False
+834171592,orthand,2021-03-17T20:56:23Z,,['Feature-Request'],0,0,False
+832825038,isabelrios,2021-03-16T13:54:21Z,2021-04-12T15:48:00Z,"['eng:automation', 'eng:ui-test']",2,0,False
+832553134,isabelrios,2021-03-16T08:38:58Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+832534985,Lorenzos24,2021-03-16T08:14:08Z,,"['Bug 🐞', 'P2']",1,0,False
+832120732,data-sync-user,2021-03-15T19:23:16Z,,['P2'],1,0,False
+831799881,SimonBasca,2021-03-15T13:14:52Z,,"['Bug 🐞', 'Feature-Request']",3,0,False
+831399853,Flyboy95,2021-03-15T04:38:07Z,2021-03-15T13:21:16Z,['Bug 🐞'],3,0,False
+830241875,data-sync-user,2021-03-12T15:47:14Z,,['P2'],0,0,False
+829230009,AndiAJ,2021-03-11T14:56:06Z,2021-03-15T09:05:36Z,['Feature-Request'],0,0,False
+829215614,AndiAJ,2021-03-11T14:40:51Z,,"['Bug 🐞', 'P3']",0,0,False
+829064079,AndiAJ,2021-03-11T11:31:07Z,,"['Bug 🐞', 'P2']",0,0,False
+829043811,AndiAJ,2021-03-11T11:04:57Z,2021-03-11T18:17:44Z,['Bug 🐞'],1,0,False
+829033354,AndiAJ,2021-03-11T10:51:25Z,,"['Bug 🐞', 'P3']",0,0,False
+829016582,AndiAJ,2021-03-11T10:30:12Z,2021-03-15T11:22:21Z,"['Bug 🐞', 'qa-triaged']",3,0,False
+829003730,isabelrios,2021-03-11T10:15:02Z,,['eng:automation'],2,0,False
+828998241,isabelrios,2021-03-11T10:08:22Z,,['eng:automation'],0,0,False
+827974875,dtantono,2021-03-10T16:09:40Z,,"['Bug 🐞', 'P2']",2,0,False
+827953140,travis79,2021-03-10T15:55:01Z,2021-03-15T20:14:45Z,"['Bug 🐞', 'P2']",1,0,False
+827906733,isabelrios,2021-03-10T15:23:31Z,2021-03-10T20:09:11Z,"['Bug 🐞', 'QA Verified']",4,0,False
+825966073,isabelrios,2021-03-09T13:54:03Z,2021-03-15T11:33:29Z,['eng:automation'],0,0,False
+825839219,SimonBasca,2021-03-09T12:20:02Z,2021-03-15T09:18:50Z,"['Bug 🐞', 'Needs-UX']",9,0,False
+825639636,isabelrios,2021-03-09T09:52:55Z,2021-03-15T15:58:44Z,['eng:automation'],0,0,False
+825581389,gokulnair2001,2021-03-09T09:11:51Z,2021-03-25T17:12:26Z,['contrib-patch'],0,0,False
+824370189,isabelrios,2021-03-08T09:29:24Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+824321647,KL643,2021-03-08T08:35:42Z,,"['Bug 🐞', 'P2']",1,0,False
+824040220,volker001,2021-03-07T22:34:12Z,,['Feature-Request'],0,0,False
+823705131,lukasbalaz,2021-03-06T17:44:59Z,,"['Bug 🐞', 'Crash', 'P2', 'qa-triaged']",3,0,False
+823511915,wmkd,2021-03-06T00:32:09Z,,"['Bug 🐞', 'Feature-Request', 'qa-triaged']",1,0,False
+823357463,bbrown-spsu,2021-03-05T19:32:39Z,2021-03-18T18:25:22Z,['Bug 🐞'],1,0,False
+822374449,nbhasin2,2021-03-04T18:07:41Z,,"['Bug 🐞', 'Crash', 'P2']",0,0,False
+821931372,isabelrios,2021-03-04T09:16:38Z,2021-03-09T14:19:15Z,['eng:automation'],0,0,False
+821753277,eliserichards,2021-03-04T04:57:55Z,2021-04-01T08:14:36Z,"['Bug 🐞', 'P2', 'qa-triaged']",2,0,False
+821752095,eliserichards,2021-03-04T04:55:07Z,,"['Bug 🐞', 'P3', 'qa-triaged']",1,0,False
+820431126,data-sync-user,2021-03-02T22:08:35Z,2021-03-18T17:36:16Z,['QA Verified'],1,0,False
+820255548,Delphine,2021-03-02T18:02:42Z,,['Bug 🐞'],0,0,False
+819748742,karlcow,2021-03-02T07:57:03Z,2021-05-03T17:08:52Z,"['P1', 'QA Verified']",5,0,False
+818808671,isabelrios,2021-03-01T12:16:17Z,2021-03-10T15:31:59Z,['eng:automation'],1,0,False
+818797411,isabelrios,2021-03-01T12:01:47Z,2021-03-09T13:50:15Z,"['Crash', 'eng:automation']",1,0,False
+818743186,trongnhan68,2021-03-01T10:53:46Z,2021-03-15T20:04:34Z,"['Bug 🐞', 'Crash', 'P1', 'qa-triaged']",4,0,False
+818715922,isabelrios,2021-03-01T10:21:52Z,2021-03-02T09:08:49Z,['eng:automation'],0,0,False
+818468518,NIXOYE,2021-03-01T05:14:53Z,,"['Bug 🐞', 'P2', 'qa-triaged']",7,1,False
+818207013,dsaric-dev,2021-02-28T13:31:40Z,,"['Bug 🐞', 'P3']",0,0,False
+817999640,katrikm,2021-02-27T19:25:59Z,,"['Bug 🐞', 'P2', 'qa-triaged']",2,1,False
+817824981,arceeboy,2021-02-27T04:55:49Z,2021-03-04T16:59:23Z,['Bug 🐞'],1,0,False
+817339253,isabelrios,2021-02-26T13:01:58Z,2021-03-10T10:22:44Z,['eng:automation'],0,0,False
+816899727,samtaborsky,2021-02-25T23:45:29Z,,['Feature-Request'],1,0,False
+816693576,data-sync-user,2021-02-25T18:39:27Z,,['P2'],0,0,False
+815682182,data-sync-user,2021-02-24T17:15:45Z,2021-03-17T22:08:26Z,['QA Verified'],5,0,False
+815464379,csuciu,2021-02-24T13:11:29Z,,"['Bug 🐞', 'P3']",0,0,False
+815448816,SimonBasca,2021-02-24T12:50:56Z,,"['Bug 🐞', 'Crash', 'P2']",1,0,False
+814614805,SimonBasca,2021-02-23T16:17:43Z,,"['Bug 🐞', 'Crash', 'P2']",2,0,False
+814601737,SimonBasca,2021-02-23T16:03:00Z,2021-02-25T16:33:20Z,"['Bug 🐞', 'QA Verified']",1,0,False
+814585920,SimonBasca,2021-02-23T15:45:41Z,2021-02-24T19:30:49Z,"['Bug 🐞', 'QA Verified']",1,0,False
+814377369,isabelrios,2021-02-23T11:30:57Z,2021-05-24T09:24:48Z,"['Bug 🐞', 'Crash', 'P1', 'qa-triaged']",5,0,False
+814264789,isabelrios,2021-02-23T09:11:03Z,2021-05-31T12:23:40Z,['eng:automation'],3,0,False
+813881169,eeeple,2021-02-22T21:31:46Z,2021-02-23T10:26:42Z,"['Bug 🐞', 'qa-triaged']",1,0,False
+812507845,newhollandaus,2021-02-20T04:03:28Z,,['Feature-Request'],1,0,False
+812450833,Toronto00,2021-02-20T00:27:43Z,2021-02-22T16:53:05Z,['eng:intermittent-test'],0,0,False
+811940265,kelimuttu,2021-02-19T11:22:03Z,,"['Bug 🐞', 'Crash', 'P2']",4,0,False
+811857030,isabelrios,2021-02-19T09:27:44Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+811619825,fowl2,2021-02-19T02:06:41Z,,"['Bug 🐞', 'P2', 'qa-triaged']",3,0,False
+810145173,isabelrios,2021-02-17T12:34:46Z,,['eng:automation'],2,0,False
+809611387,data-sync-user,2021-02-16T20:07:49Z,2021-03-23T15:59:30Z,['QA Verified'],2,0,False
+809445923,isabelrios,2021-02-16T16:13:16Z,2021-02-26T13:05:30Z,['Regression'],2,0,False
+808616666,isabelrios,2021-02-15T15:11:51Z,2021-02-16T08:44:43Z,['eng:automation'],0,0,False
+808003472,capiet,2021-02-14T17:20:14Z,2021-02-18T17:08:24Z,['Bug 🐞'],1,0,False
+807753940,nicoonline,2021-02-13T13:54:46Z,,"['Crash', 'P2', 'qa-triaged']",10,0,False
+807634955,data-sync-user,2021-02-13T00:42:15Z,2021-03-29T16:33:07Z,['QA Verified'],3,0,False
+807446058,data-sync-user,2021-02-12T18:11:27Z,2021-04-28T03:22:02Z,['QA Verified'],2,0,False
+807445984,data-sync-user,2021-02-12T18:11:20Z,2021-04-28T03:22:02Z,['QA Verified'],2,0,False
+807445428,data-sync-user,2021-02-12T18:10:25Z,2021-04-28T20:16:42Z,['QA Verified'],1,0,False
+807444720,data-sync-user,2021-02-12T18:09:24Z,2021-04-28T16:25:06Z,"['Needs-UX', 'QA Verified']",1,0,False
+807444665,data-sync-user,2021-02-12T18:09:18Z,2021-04-27T20:42:19Z,['QA Verified'],1,0,False
+807443812,data-sync-user,2021-02-12T18:08:05Z,2021-04-27T15:55:21Z,['QA Verified'],2,0,False
+806786237,data-sync-user,2021-02-11T22:15:55Z,2021-04-14T15:10:31Z,['QA Verified'],1,0,False
+806784840,data-sync-user,2021-02-11T22:13:30Z,2021-04-14T15:10:33Z,['QA Verified'],2,0,False
+806783377,data-sync-user,2021-02-11T22:10:54Z,2021-04-19T12:15:50Z,['QA Verified'],2,0,False
+806525689,lucasjohnson,2021-02-11T16:02:00Z,,['Feature-Request'],1,4,False
+804989887,boek,2021-02-09T22:47:58Z,,"['Bug 🐞', 'P2']",0,2,False
+804824653,boek,2021-02-09T18:57:00Z,2021-02-26T05:20:24Z,['Bug 🐞'],0,0,False
+804791470,struq,2021-02-09T18:11:40Z,2021-03-16T13:14:14Z,"['Bug 🐞', 'P2', 'QA Verified']",2,1,False
+804776367,isabelrios,2021-02-09T17:50:09Z,,['eng:automation'],2,0,False
+803430844,isabelrios,2021-02-08T10:38:54Z,2021-03-04T09:34:33Z,['eng:automation'],2,0,False
+801748385,Shadowspear123,2021-02-05T00:51:03Z,,['Feature-Request'],0,1,False
+801643792,boek,2021-02-04T21:20:29Z,,['Bug 🐞'],1,0,False
+801579076,data-sync-user,2021-02-04T19:39:13Z,,['Needs-UX'],0,0,False
+801411391,wlach,2021-02-04T15:53:20Z,2021-02-05T19:17:33Z,['P3'],0,0,False
+801258432,bentsionmp,2021-02-04T12:55:23Z,2021-05-19T16:25:38Z,"['P1', 'QA Verified', 'qa-triaged']",4,1,False
+800259117,isabelrios,2021-02-03T11:56:04Z,2021-02-04T18:14:37Z,['eng:automation'],1,0,False
+795829834,CentauriII,2021-01-28T09:29:58Z,,"['Bug 🐞', 'P1', 'qa-triaged']",2,0,False
+795131083,SimonBasca,2021-01-27T14:06:12Z,,"['Bug 🐞', 'P3']",0,0,False
+795054870,SimonBasca,2021-01-27T12:22:34Z,,"['Bug 🐞', 'P2']",0,0,False
+795028148,SimonBasca,2021-01-27T11:42:25Z,,"['Bug 🐞', 'P2']",1,0,False
+794330609,SimonBasca,2021-01-26T15:34:58Z,2021-02-18T21:02:58Z,"['Bug 🐞', 'Crash']",12,0,False
+794268476,isabelrios,2021-01-26T14:19:37Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+794259453,SimonBasca,2021-01-26T14:07:38Z,,"['Bug 🐞', 'P3']",0,0,False
+793653399,ctozlowski,2021-01-25T19:15:04Z,,"['Bug 🐞', 'P2']",1,0,False
+793410708,SimonBasca,2021-01-25T14:05:21Z,2021-02-02T13:39:14Z,['Bug 🐞'],5,0,False
+793292188,SimonBasca,2021-01-25T11:17:44Z,,"['Bug 🐞', 'P2']",1,0,False
+792918010,brampitoyo,2021-01-24T22:33:25Z,,['P2'],0,0,False
+792243299,data-sync-user,2021-01-22T19:15:03Z,2021-02-18T22:45:18Z,['QA Verified'],3,0,False
+791889552,SimonBasca,2021-01-22T10:30:06Z,,"['Bug 🐞', 'Crash', 'P1']",0,0,False
+791623273,st3fan,2021-01-22T01:41:46Z,,"['Bug 🐞', 'P2']",0,0,False
+790430233,data-sync-user,2021-01-20T23:03:40Z,,['Needs-UX'],0,0,False
+790036801,SimonBasca,2021-01-20T14:39:40Z,,"['Bug 🐞', 'P2']",0,0,False
+790023797,SimonBasca,2021-01-20T14:24:22Z,,"['Bug 🐞', 'P2']",1,0,False
+790020429,SimonBasca,2021-01-20T14:21:28Z,,"['Bug 🐞', 'Crash', 'P2']",1,0,False
+789072957,isabelrios,2021-01-19T14:31:41Z,2021-01-21T18:08:45Z,['eng:automation'],2,0,False
+788978350,isabelrios,2021-01-19T12:22:35Z,,"['eng:automation', 'eng:intermittent-test']",8,0,False
+788961881,isabelrios,2021-01-19T11:57:10Z,2021-01-19T15:19:18Z,"['Bug 🐞', 'eng:automation']",1,0,False
+788310984,SimonBasca,2021-01-18T14:24:04Z,,"['Bug 🐞', 'P3']",0,0,False
+788304408,SimonBasca,2021-01-18T14:15:12Z,,"['Bug 🐞', 'P3']",0,0,False
+788301487,SimonBasca,2021-01-18T14:11:19Z,,"['Bug 🐞', 'P3']",2,0,False
+787046644,SimonBasca,2021-01-15T17:02:27Z,,['eng:automation'],0,0,False
+785331831,data-sync-user,2021-01-13T18:21:16Z,,['Needs-UX'],1,0,False
+784346833,CentauriII,2021-01-12T15:35:05Z,,['Feature-Request'],0,2,False
+783798184,data-sync-user,2021-01-12T00:10:05Z,2021-02-18T21:42:57Z,['QA Verified'],4,0,False
+783721606,AaronMT,2021-01-11T21:33:48Z,2021-01-15T15:52:18Z,"['Bug 🐞', 'eng:automation', 'eng:ui-test']",0,0,False
+783510626,isabelrios,2021-01-11T16:19:46Z,2021-01-14T16:41:39Z,"['eng:automation', 'eng:ui-test']",0,0,False
+783488430,isabelrios,2021-01-11T15:51:43Z,,"['eng:automation', 'eng:ui-test']",0,0,False
+783400756,SimonBasca,2021-01-11T14:08:13Z,2021-01-13T23:05:14Z,"['Bug 🐞', 'QA Verified']",1,0,False
+783326562,SimonBasca,2021-01-11T12:21:34Z,2021-01-14T17:00:35Z,['Bug 🐞'],0,0,False
+783321692,SimonBasca,2021-01-11T12:14:48Z,2021-01-14T17:00:31Z,['Bug 🐞'],0,0,False
+783321061,SimonBasca,2021-01-11T12:13:47Z,2021-01-14T17:00:26Z,['Bug 🐞'],0,0,False
+783313517,SimonBasca,2021-01-11T12:02:28Z,2021-01-14T17:00:21Z,['Bug 🐞'],0,0,False
+782808283,mcf-rocks,2021-01-10T12:30:38Z,,['Bug 🐞'],0,0,False
+782532658,iOS-Martin,2021-01-09T07:34:07Z,,"['Feature-Request', 'P3']",0,0,False
+782494248,mattdemarillac,2021-01-09T02:28:46Z,2021-01-09T02:44:32Z,['Bug 🐞'],0,0,False
+781457202,data-sync-user,2021-01-07T16:53:21Z,2021-01-26T18:31:07Z,['P2'],3,0,False
+781450161,boek,2021-01-07T16:42:54Z,2021-02-18T17:17:32Z,['Bug 🐞'],0,0,False
+780889162,metronidazole,2021-01-06T22:32:19Z,,['Feature-Request'],0,0,False
+780685408,data-sync-user,2021-01-06T16:34:15Z,2021-02-18T18:10:06Z,"['P1', 'QA Verified']",5,0,False
+779619118,data-sync-user,2021-01-05T21:45:44Z,2021-01-22T00:30:10Z,['Needs-UX'],2,0,False
+779112578,0260665,2021-01-05T14:37:41Z,2021-01-06T08:32:39Z,['Bug 🐞'],1,0,False
+778334245,data-sync-user,2021-01-04T20:12:24Z,,['Needs-UX'],3,0,False
+778203498,PlanetWilson,2021-01-04T16:15:41Z,,"['Bug 🐞', 'Feature-Request']",0,0,False
+777597599,NewBunny96,2021-01-03T08:42:21Z,,['P2'],3,0,False
+777468615,DrAnonnaki,2021-01-02T14:26:00Z,2021-01-02T18:57:55Z,['Bug 🐞'],1,0,False
+776335738,lenico,2020-12-30T08:30:51Z,,['Feature-Request'],0,3,False
+776293149,BigSamSampson,2020-12-30T06:33:12Z,2021-01-07T17:40:43Z,['Bug 🐞'],1,0,False
+775665991,mattmactimpson,2020-12-29T02:35:39Z,,"['Bug 🐞', 'Crash', 'P1', 'qa-triaged']",4,0,False
+775084272,rnewman,2020-12-27T18:12:56Z,2021-01-05T19:38:47Z,"['Bug 🐞', 'Crash']",3,1,False
+773667961,isabelrios,2020-12-23T10:55:01Z,,"['eng:automation', 'eng:intermittent-test']",3,0,False
+773303322,TimurEke,2020-12-22T23:00:30Z,,"['Bug 🐞', 'Needs-QA', 'P2', 'qa-triaged']",7,0,False
+772885162,isabelrios,2020-12-22T11:48:06Z,,"['eng:automation', 'eng:intermittent-test']",3,0,False
+772884318,isabelrios,2020-12-22T11:46:38Z,,"['eng:automation', 'eng:intermittent-test']",2,0,False
+772106918,isabelrios,2020-12-21T11:52:46Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+771406577,br-matt,2020-12-19T16:03:39Z,,"['Bug 🐞', 'Feature-Request', 'P3']",0,0,False
+771210538,data-sync-user,2020-12-18T22:41:12Z,,['Needs-UX'],1,0,False
+771207203,data-sync-user,2020-12-18T22:32:42Z,2021-02-18T21:44:52Z,['QA Verified'],3,0,False
+771200346,data-sync-user,2020-12-18T22:15:15Z,,['Needs-UX'],0,0,False
+771200161,data-sync-user,2020-12-18T22:14:49Z,2021-02-18T18:01:45Z,['QA Verified'],4,0,False
+771022075,muhasturk,2020-12-18T16:39:53Z,2021-02-03T19:47:03Z,['Bug 🐞'],4,0,False
+770275805,bakerrlii,2020-12-17T18:34:44Z,,"['Bug 🐞', 'P2', 'qa-triaged']",2,0,False
+770214054,isabelrios,2020-12-17T16:59:54Z,2020-12-18T11:37:01Z,['eng:intermittent-test'],1,0,False
+770196532,bentsionmp,2020-12-17T16:36:34Z,,['P2'],1,0,False
+769974231,SimonBasca,2020-12-17T12:37:34Z,2021-02-04T17:07:56Z,['Leanplum'],0,0,False
+769906586,SimonBasca,2020-12-17T11:33:42Z,,"['Bug 🐞', 'Leanplum', 'P2']",0,0,False
+769885525,SimonBasca,2020-12-17T11:14:46Z,,"['Bug 🐞', 'Leanplum', 'P1']",0,0,False
+769792999,ctipper,2020-12-17T09:55:18Z,,"['Bug 🐞', 'P2']",21,0,False
+768997145,smjoseph,2020-12-16T15:24:54Z,,['Feature-Request'],0,1,False
+767146479,Toygoon,2020-12-15T03:53:43Z,2020-12-15T21:55:19Z,['Bug 🐞'],1,0,False
+767144713,Toygoon,2020-12-15T03:50:09Z,2020-12-15T03:51:46Z,['Bug 🐞'],0,0,False
+766884476,data-sync-user,2020-12-14T20:11:22Z,2021-01-15T21:01:41Z,['QA Verified'],1,0,False
+763188309,yllekz,2020-12-12T02:22:46Z,,['Feature-Request'],0,0,False
+762984910,data-sync-user,2020-12-11T22:20:19Z,2021-02-16T16:30:03Z,['Needs-UX'],2,0,False
+762970532,data-sync-user,2020-12-11T22:06:31Z,2021-02-10T18:37:59Z,['Must'],2,0,False
+762931628,data-sync-user,2020-12-11T21:31:42Z,,['Needs-UX'],0,0,False
+762848585,data-sync-user,2020-12-11T20:14:51Z,,['Needs-UX'],1,0,False
+762220550,muhasturk,2020-12-11T10:37:25Z,,"['Bug 🐞', 'Crash', 'P3']",2,0,False
+761534907,nbhasin2,2020-12-10T19:16:58Z,2020-12-10T21:53:45Z,"['Bug 🐞', 'Crash']",2,0,False
+761113651,isabelrios,2020-12-10T10:28:04Z,2021-02-03T19:47:10Z,['Task 🛠'],3,0,False
+761102446,isabelrios,2020-12-10T10:13:55Z,,"['eng:automation', 'eng:intermittent-test']",4,0,False
+761099488,isabelrios,2020-12-10T10:09:52Z,,"['eng:automation', 'eng:intermittent-test']",0,0,False
+760602489,arthur-mozilla,2020-12-09T19:19:13Z,,['Feature-Request'],0,2,False
+760555567,nbhasin2,2020-12-09T18:12:36Z,,"['2', 'Technical Debt']",0,0,False
+760545508,AmyYLee,2020-12-09T17:57:36Z,2021-05-07T17:46:05Z,"['Bug 🐞', 'P2', 'QA Verified', 'eng-ready', 'ios14-widget']",5,0,False
+760514101,data-sync-user,2020-12-09T17:14:42Z,,['P2'],0,2,False
+760504143,data-sync-user,2020-12-09T17:01:26Z,,['Needs-UX'],3,0,False
+760385046,AndiAJ,2020-12-09T14:37:15Z,,"['Bug 🐞', 'P3']",0,0,False
+760370882,AndiAJ,2020-12-09T14:20:04Z,,"['Bug 🐞', 'P3']",2,0,False
+760327611,AndiAJ,2020-12-09T13:25:01Z,,"['Bug 🐞', 'Feature-Request']",0,0,False
+760325193,BigSamSampson,2020-12-09T13:21:51Z,2021-02-25T18:26:48Z,['Bug 🐞'],2,0,False
+760274183,AndiAJ,2020-12-09T12:09:02Z,,"['Bug 🐞', 'P3']",0,0,False
+760270167,AndiAJ,2020-12-09T12:02:52Z,,"['Bug 🐞', 'P3']",0,0,False
+760225088,AndiAJ,2020-12-09T10:56:22Z,2021-01-22T10:10:40Z,"['Bug 🐞', 'Needs-QA']",2,0,False
+760092028,kianimo,2020-12-09T07:47:53Z,,"['Bug 🐞', 'Crash', 'P2']",2,0,False
+759359759,csuciu,2020-12-08T11:16:06Z,,['P2'],0,0,False
+759344968,csuciu,2020-12-08T10:54:42Z,,"['Bug 🐞', 'P2']",0,0,False
+757377842,nbhasin2,2020-12-04T20:18:48Z,2020-12-08T22:05:24Z,"['Bug 🐞', 'QA Verified']",1,0,False
+756341728,Standard8,2020-12-03T16:15:52Z,,"['Needs-UX', 'P2']",6,0,False
+755411221,influx3k,2020-12-02T16:12:49Z,,['Feature-Request'],3,1,False
+754243571,isabelrios,2020-12-01T09:56:41Z,2020-12-02T21:26:37Z,['eng:automation'],0,0,False
+752878105,3c1u,2020-11-29T09:45:45Z,2021-01-21T17:22:19Z,['Bug 🐞'],1,1,False
+751991271,starkdivide,2020-11-27T05:28:01Z,2020-11-27T05:51:32Z,['Bug 🐞'],0,0,False
+751768158,data-sync-user,2020-11-26T18:16:38Z,,"['Bug 🐞', 'P3']",1,0,False
+748346133,brandoncote,2020-11-22T20:45:44Z,,['Feature-Request'],0,0,False
+747981780,abanda96,2020-11-21T09:14:32Z,,"['Bug 🐞', 'P1']",3,0,False
+747809765,ohbobsaget,2020-11-20T21:37:13Z,,['Feature-Request'],0,1,False
+747472431,isabelrios,2020-11-20T13:00:01Z,,['eng:automation'],0,0,False
+746915056,nbhasin2,2020-11-19T20:51:21Z,2020-12-08T22:05:23Z,"['Bug 🐞', 'QA Verified']",2,0,False
+746912640,nbhasin2,2020-11-19T20:47:17Z,2020-12-09T18:02:25Z,"['Bug 🐞', 'QA Verified']",1,0,False
+746759190,v1sionmaster,2020-11-19T16:58:42Z,2021-02-04T09:07:09Z,['Bug 🐞'],5,0,False
+746426881,isabelrios,2020-11-19T10:02:38Z,2020-11-19T17:44:53Z,['eng:automation'],0,0,False
+745332328,oyzmo,2020-11-18T05:02:50Z,,"['Bug 🐞', 'P3']",0,0,False
+745127872,data-sync-user,2020-11-17T22:15:40Z,2021-07-08T18:58:15Z,['Crash'],1,0,False
+744972714,data-sync-user,2020-11-17T18:18:26Z,2020-11-30T17:28:59Z,['QA Verified'],1,0,False
+744805121,SimonBasca,2020-11-17T14:50:42Z,2021-03-08T14:28:56Z,"['Bug 🐞', 'Crash', 'P1']",3,0,False
+743930520,isabelrios,2020-11-16T15:29:59Z,,"['Bug 🐞', 'P2']",0,0,False
+743856609,eutychus83,2020-11-16T13:56:27Z,,['Feature-Request'],0,2,False
+743722605,isabelrios,2020-11-16T10:36:30Z,,"['Bug 🐞', 'P2']",0,0,False
+743712130,isabelrios,2020-11-16T10:21:38Z,2020-12-09T17:40:36Z,['Bug 🐞'],1,0,False
+743708702,isabelrios,2020-11-16T10:16:55Z,2020-12-09T17:40:16Z,"['Bug 🐞', 'Crash']",1,0,False
+743705670,isabelrios,2020-11-16T10:12:56Z,,"['Bug 🐞', 'P2']",1,0,False
+743186004,cpeterso,2020-11-15T05:24:08Z,,"['Bug 🐞', 'Feature-Request']",0,0,False
+742881304,bassnado,2020-11-14T00:55:12Z,2021-02-25T18:26:34Z,['Bug 🐞'],11,0,False
+742288683,data-sync-user,2020-11-13T09:10:05Z,2020-11-13T15:28:42Z,['eng:automation'],0,0,False
+741904937,data-sync-user,2020-11-12T20:25:38Z,,['Needs-UX'],1,0,False
+741901615,data-sync-user,2020-11-12T20:20:22Z,2020-11-27T18:11:43Z,"['Needs-UX', 'QA Verified']",4,0,False
+741751491,daf121,2020-11-12T16:39:48Z,,"['Bug 🐞', 'P3']",0,2,False
+740195245,nbhasin2,2020-11-10T19:48:01Z,2020-12-16T23:02:05Z,"['Bug 🐞', 'Crash', 'P2', 'QA Verified']",2,0,False
+739507641,ghost,2020-11-10T02:06:24Z,,"['Bug 🐞', 'Crash', 'P2']",0,0,False
+738202890,cpeterso,2020-11-07T08:54:33Z,2021-02-18T16:56:38Z,['Bug 🐞'],4,0,False
+738127138,Scripter17,2020-11-07T01:17:31Z,,"['Bug 🐞', 'P2']",0,2,False
+737894412,data-sync-user,2020-11-06T16:36:11Z,,['Must'],5,0,False
+737262762,data-sync-user,2020-11-05T20:59:26Z,2020-11-13T20:44:44Z,['QA Verified'],1,0,False
+737255093,data-sync-user,2020-11-05T20:46:20Z,2020-11-13T20:44:24Z,['QA Verified'],1,0,False
+736082532,isabelrios,2020-11-04T12:38:57Z,,"['Bug 🐞', 'P2']",0,0,False
+735945069,sebfeslh,2020-11-04T09:14:02Z,,"['Bug 🐞', 'P3']",0,0,False
+735661772,data-sync-user,2020-11-03T21:58:17Z,2021-01-18T23:57:46Z,['P2'],3,0,False
+735656369,data-sync-user,2020-11-03T21:47:21Z,,['Must'],0,0,False
+735200413,vmoutoussamy,2020-11-03T10:27:46Z,,"['Bug 🐞', 'P2']",6,0,False
+735163077,isabelrios,2020-11-03T09:34:01Z,,"['Bug 🐞', 'P2']",2,0,False
+734830390,brampitoyo,2020-11-02T21:22:30Z,,"['Bug 🐞', 'Needs-UX']",0,0,False
+734801345,brampitoyo,2020-11-02T20:35:18Z,,"['Bug 🐞', 'P2', 'eng-ready']",6,0,False
+734747878,ThePolarCat,2020-11-02T19:03:27Z,2021-02-19T12:23:17Z,['Bug 🐞'],12,0,False
+734746194,ThePolarCat,2020-11-02T19:00:36Z,2020-11-02T19:07:41Z,['Bug 🐞'],0,0,False
+734098774,brampitoyo,2020-11-02T00:21:41Z,2021-01-08T19:52:09Z,"['Bug 🐞', 'contrib-patch', 'eng-ready']",1,0,False
+733492719,data-sync-user,2020-10-30T20:24:17Z,2020-12-08T20:21:11Z,"['Must', 'QA Verified']",2,0,False
+733443975,isabelrios,2020-10-30T19:06:12Z,,"['Bug 🐞', 'P2']",1,0,False
+732956138,Apocalypsing,2020-10-30T07:42:19Z,,"['Bug 🐞', 'P2']",1,0,False
+732485308,eroldru,2020-10-29T16:51:04Z,,['Feature-Request'],9,4,False
+732407937,boek,2020-10-29T15:18:44Z,2020-10-29T19:24:25Z,['Crash'],1,0,False
+732325477,AndiAJ,2020-10-29T13:42:42Z,,"['Bug 🐞', 'P3']",0,0,False
+732271321,AndiAJ,2020-10-29T12:27:56Z,,"['Bug 🐞', 'P2']",1,0,False
+732228718,AndiAJ,2020-10-29T11:22:17Z,,"['Bug 🐞', 'P3']",0,0,False
+732200564,AndiAJ,2020-10-29T10:41:37Z,,"['Bug 🐞', 'P3', 'landscape']",0,0,False
+731635077,nbhasin2,2020-10-28T17:12:06Z,,"['Crash', 'P2']",3,0,False
+731556013,AndiAJ,2020-10-28T15:36:26Z,2021-03-18T19:37:45Z,"['Bug 🐞', 'P2', 'QA Verified']",1,0,False
+731537786,SimonBasca,2020-10-28T15:15:58Z,2021-06-25T10:54:26Z,"['Bug 🐞', 'P16107', 'P3']",1,0,False
+731406223,AndiAJ,2020-10-28T12:41:09Z,,"['Bug 🐞', 'Feature-Request', 'Needs-UX']",0,0,False
+731399600,AndiAJ,2020-10-28T12:31:26Z,,"['Bug 🐞', 'P2']",4,0,False
+731361982,AndiAJ,2020-10-28T11:35:51Z,,"['Bug 🐞', 'Crash', 'P3']",2,0,False
+731348450,AndiAJ,2020-10-28T11:16:18Z,,"['Bug 🐞', 'P3']",0,0,False
+731326112,AndiAJ,2020-10-28T10:45:19Z,,"['Bug 🐞', 'P3']",0,1,False
+731267039,AndiAJ,2020-10-28T09:28:33Z,,"['Bug 🐞', 'P3']",0,0,False
+731261430,AndiAJ,2020-10-28T09:21:47Z,,"['Bug 🐞', 'P3']",0,0,False
+731230674,AndiAJ,2020-10-28T08:42:20Z,2021-02-25T17:55:37Z,['Bug 🐞'],1,0,False
+731224944,AndiAJ,2020-10-28T08:34:24Z,,['Feature-Request'],1,0,False
+731177610,AndiAJ,2020-10-28T07:19:36Z,,"['Bug 🐞', 'P1']",1,0,False
+730760791,data-sync-user,2020-10-27T19:44:53Z,,['Crash'],0,0,False
+730728831,dnarcese,2020-10-27T19:00:37Z,2020-11-16T21:52:47Z,['Bug 🐞'],3,0,False
+730702685,nbhasin2,2020-10-27T18:22:06Z,2020-10-28T15:54:06Z,"['1', 'Crash', 'QA Verified']",1,0,False
+730509092,AndiAJ,2020-10-27T14:34:21Z,,"['Bug 🐞', 'P3']",1,1,False
+730464339,AndiAJ,2020-10-27T13:44:14Z,,"['Bug 🐞', 'P3']",0,0,False
+730418414,AndiAJ,2020-10-27T12:45:34Z,,"['Bug 🐞', 'P3']",0,0,False
+730401730,AndiAJ,2020-10-27T12:21:25Z,,"['Bug 🐞', 'P2']",0,0,False
+730377803,AndiAJ,2020-10-27T11:47:33Z,,"['Bug 🐞', 'P2', 'eng-ready']",2,0,False
+730368320,AndiAJ,2020-10-27T11:35:52Z,2020-10-27T11:46:29Z,['Bug 🐞'],0,0,False
+730288388,isabelrios,2020-10-27T09:50:10Z,,['eng:automation'],0,0,False
+730276130,AndiAJ,2020-10-27T09:33:35Z,2020-10-28T19:32:21Z,"['Bug 🐞', 'QA Verified']",5,0,False
+729784311,SimonBasca,2020-10-26T17:58:12Z,2020-11-17T18:23:05Z,['Bug 🐞'],1,0,False
+729771831,SimonBasca,2020-10-26T17:40:33Z,2020-11-16T21:53:47Z,['Bug 🐞'],4,0,False
+729763885,SimonBasca,2020-10-26T17:29:31Z,,"['Bug 🐞', 'P2']",0,0,False
+729757575,SimonBasca,2020-10-26T17:21:14Z,,"['Bug 🐞', 'P1']",4,0,False
+729647313,nasiralamreeki,2020-10-26T15:07:49Z,,['Feature-Request'],0,0,False
+728474184,nbhasin2,2020-10-23T19:34:04Z,2020-11-16T21:54:03Z,['2'],0,0,False
+728390997,dnarcese,2020-10-23T17:26:46Z,,['P2'],0,0,False
+728251901,oscar345,2020-10-23T14:10:47Z,,['Feature-Request'],2,1,False
+728060555,isabelrios,2020-10-23T09:25:55Z,,['eng:automation'],1,0,False
+727777724,data-sync-user,2020-10-22T23:12:23Z,2020-10-23T19:25:59Z,['1'],0,0,False
+727587789,jevans-mozilla,2020-10-22T17:33:32Z,,['Technical Debt'],0,0,False
+727561348,jevans-mozilla,2020-10-22T16:55:22Z,2021-02-19T03:28:09Z,['Technical Improvement'],2,0,False
+727504775,data-sync-user,2020-10-22T15:40:33Z,,['P2'],0,0,False
+727326593,csuciu,2020-10-22T12:04:58Z,2020-10-23T09:53:53Z,['Crash'],2,0,False
+727283757,BigSamSampson,2020-10-22T11:01:58Z,2021-03-04T17:07:57Z,['Bug 🐞'],2,0,False
+727275173,BigSamSampson,2020-10-22T10:49:16Z,2021-03-04T19:24:46Z,['Bug 🐞'],1,0,False
+727262250,BigSamSampson,2020-10-22T10:30:29Z,,"['Bug 🐞', 'P3']",1,0,False
+727256356,BigSamSampson,2020-10-22T10:22:09Z,,"['Bug 🐞', 'P3']",1,0,False
+725920202,data-sync-user,2020-10-20T20:28:30Z,2020-12-01T19:53:42Z,['QA Verified'],1,0,False
+725749441,data-sync-user,2020-10-20T16:16:48Z,2020-11-30T20:20:01Z,['QA Verified'],1,0,False
+725703696,data-sync-user,2020-10-20T15:21:16Z,2020-11-06T23:13:57Z,['QA Verified'],1,0,False
+725680941,isabelrios,2020-10-20T14:59:43Z,2020-11-03T13:33:40Z,"['eng:automation', 'eng:ui-test']",2,0,False
+725652616,BigSamSampson,2020-10-20T14:32:03Z,2020-11-02T13:55:51Z,"['Bug 🐞', 'Crash']",3,0,False
+725491413,m-him,2020-10-20T11:33:56Z,,"['Bug 🐞', 'P1']",8,6,False
+725181796,brampitoyo,2020-10-20T04:21:42Z,,['Feature-Request'],0,0,False
+725171261,brampitoyo,2020-10-20T03:58:24Z,,['Feature-Request'],0,0,False
+725065427,PerkyMcSkittles,2020-10-20T00:02:36Z,2021-02-26T17:32:49Z,['Bug 🐞'],5,0,False
+724741239,xyrer,2020-10-19T15:38:03Z,,"['Bug 🐞', 'P3']",2,0,False
+723956148,tillrathmann,2020-10-18T08:26:03Z,,"['Bug 🐞', 'P2']",0,0,False
+723815751,lolo2bdx,2020-10-17T17:58:43Z,2021-03-01T08:47:43Z,"['Bug 🐞', 'Crash', 'P1']",14,0,False
+722984313,ksze,2020-10-16T07:34:48Z,2021-02-26T17:37:12Z,['Bug 🐞'],1,0,False
+722407551,kaylagalway,2020-10-15T14:49:05Z,,['P3'],2,0,False
+722323898,isabelrios,2020-10-15T13:12:26Z,2020-10-20T08:57:43Z,['eng:automation'],0,0,False
+721390473,isabelrios,2020-10-14T11:50:09Z,2020-10-15T08:33:46Z,['eng:automation'],0,0,False
+721204872,SimonBasca,2020-10-14T07:10:11Z,2020-11-17T23:10:18Z,['Bug 🐞'],1,0,False
+720879250,nbhasin2,2020-10-13T21:43:46Z,2020-10-14T16:08:58Z,"['2', 'Bug 🐞']",0,0,False
+720692535,data-sync-user,2020-10-13T19:03:18Z,2020-10-13T19:09:45Z,['QA Verified'],0,0,False
+720581230,jevans-mozilla,2020-10-13T17:30:13Z,2020-10-26T18:55:32Z,['Technical Debt'],1,0,False
+719176811,NN---,2020-10-12T08:23:32Z,,['Feature-Request'],0,0,False
+719085459,karlcow,2020-10-12T06:17:50Z,,"['Bug 🐞', 'P3']",0,0,False
+718041593,SimonBasca,2020-10-09T10:39:15Z,2020-10-14T14:38:28Z,"['Bug 🐞', 'QA Verified']",2,0,False
+718041352,SimonBasca,2020-10-09T10:38:53Z,2020-10-14T14:42:38Z,['Bug 🐞'],1,0,False
+718020094,Duckbilled,2020-10-09T10:04:17Z,,['Feature-Request'],1,0,False
+717610651,data-sync-user,2020-10-08T19:37:52Z,2020-10-27T03:15:24Z,"['Feature-Request', 'Must']",0,0,False
+717231085,isabelrios,2020-10-08T10:44:44Z,,['eng:automation'],0,0,False
+716975090,jcsteh,2020-10-08T02:39:59Z,,"['Accessibility', 'P2']",1,0,False
+716606701,isabelrios,2020-10-07T14:56:33Z,2020-10-08T16:15:25Z,['eng:automation'],0,0,False
+716508363,SimonBasca,2020-10-07T12:59:35Z,2020-10-14T16:10:59Z,"['Bug 🐞', 'P1', 'QA Verified']",2,0,False
+716498832,SimonBasca,2020-10-07T12:47:44Z,2020-10-22T19:01:14Z,"['2', 'Bug 🐞', 'Crash', 'QA Verified']",4,0,False
+716457076,csuciu,2020-10-07T11:48:11Z,,['P3'],0,0,False
+716411788,moon8orange,2020-10-07T10:39:41Z,2021-05-20T19:35:42Z,"['Bug 🐞', 'Needs-UX', 'P1', 'QA Verified']",7,0,False
+715974608,data-sync-user,2020-10-06T19:46:12Z,2021-06-11T10:43:07Z,"['Feature-Request', 'QA Verified', 'eng-ready']",7,0,False
+715963195,Duckbilled,2020-10-06T19:27:21Z,,['Feature-Request'],2,1,False
+715777994,vauxhall,2020-10-06T15:16:11Z,2020-12-23T21:31:06Z,"['Bug 🐞', 'Crash']",2,0,False
+715728946,vauxhall,2020-10-06T14:25:28Z,2021-02-26T17:39:14Z,['Bug 🐞'],1,0,False
+715092208,dnarcese,2020-10-05T19:11:48Z,2020-10-08T19:02:38Z,"['Bug 🐞', 'P1']",1,0,False
+714946058,isabelrios,2020-10-05T15:33:19Z,2020-10-05T21:17:08Z,"['eng:automation', 'eng:ui-test']",0,0,False
+714420494,rnewman,2020-10-04T22:59:39Z,2020-10-08T18:22:15Z,"['Bug 🐞', 'QA Verified']",2,1,False
+714420039,rnewman,2020-10-04T22:56:59Z,,"['Bug 🐞', 'Crash', 'P1', 'QA Verified']",20,1,False
+714419246,rnewman,2020-10-04T22:51:24Z,2020-10-20T15:56:29Z,"['2', 'Bug 🐞']",1,1,False
+713948716,Delphine,2020-10-02T23:17:51Z,2021-03-04T21:01:57Z,['Bug 🐞'],2,0,False
+713920575,Delphine,2020-10-02T21:49:51Z,,"['Bug 🐞', 'Needs-UX', 'P1', 'eng-ready']",1,0,False
+713905789,dblohm7,2020-10-02T21:13:40Z,,"['Bug 🐞', 'P3']",6,0,False
+713477296,isabelrios,2020-10-02T09:21:45Z,2020-10-14T14:53:19Z,['eng:automation'],2,0,False
+713409815,OddHouseGames,2020-10-02T07:21:13Z,,['Feature-Request'],0,0,False
+712975492,data-sync-user,2020-10-01T15:58:21Z,2020-10-05T21:48:14Z,"['2', 'QA Verified']",2,0,False
+712974948,data-sync-user,2020-10-01T15:57:42Z,2020-10-02T04:50:38Z,['QA Verified'],2,0,False
+712883256,SimonBasca,2020-10-01T14:12:40Z,2020-11-03T20:05:19Z,"['2', 'Bug 🐞', 'P2', 'QA Verified']",3,0,False
+712822191,SimonBasca,2020-10-01T13:01:10Z,2020-10-09T10:58:46Z,"['Bug 🐞', 'QA Verified']",5,0,False
+712691809,TheoChevalier,2020-10-01T10:01:33Z,2020-10-08T15:48:13Z,"['1', 'Bug 🐞', 'P1', 'QA Verified']",3,0,False
+712311212,Duckbilled,2020-09-30T22:04:05Z,,['Feature-Request'],4,0,False
+712263938,athomasmoz,2020-09-30T20:38:39Z,2020-11-05T16:06:57Z,"['Bug 🐞', 'QA Verified']",1,0,False
+711916108,muhasturk,2020-09-30T12:46:22Z,2020-10-01T17:25:16Z,['Technical Debt'],1,0,False
+711811009,isabelrios,2020-09-30T10:02:15Z,,"['eng:automation', 'eng:ui-test']",0,0,False
+711306049,data-sync-user,2020-09-29T17:16:45Z,2020-10-05T14:21:29Z,['3'],0,0,False
+711305479,data-sync-user,2020-09-29T17:15:50Z,2020-10-05T14:21:25Z,['2'],0,0,False
+711199549,data-sync-user,2020-09-29T14:57:35Z,,['Needs-UX'],0,0,False
+711082604,BigSamSampson,2020-09-29T12:51:23Z,2021-05-05T20:47:23Z,"['Bug 🐞', 'P2', 'QA Verified']",2,0,False
+711009511,SimonBasca,2020-09-29T11:12:17Z,2020-09-30T22:56:11Z,"['3', 'Bug 🐞', 'Crash', 'QA Verified']",2,0,False
+710571191,Duckbilled,2020-09-28T20:54:11Z,,"['Feature-Request', 'Needs-UX']",0,0,False
+710067995,isabelrios,2020-09-28T08:42:31Z,2020-09-28T16:09:46Z,"['Bug 🐞', 'Regression', 'eng:bug-auto-found']",0,0,False
+708994949,garvankeeley,2020-09-25T14:41:48Z,2020-09-25T19:27:06Z,['Bug 🐞'],0,0,False
+708789148,isabelrios,2020-09-25T09:26:18Z,2020-10-02T09:19:51Z,"['Bug 🐞', 'P2', 'eng:bug-auto-found', 'security']",3,0,False
+708755523,isabelrios,2020-09-25T08:35:08Z,2020-09-29T16:59:04Z,['Bug 🐞'],2,0,False
+708744096,isabelrios,2020-09-25T08:17:01Z,,"['Bug 🐞', 'Needs-UX']",2,0,False
+708179545,SimonBasca,2020-09-24T13:38:11Z,2020-10-09T10:50:17Z,"['Bug 🐞', 'P3', 'QA Verified']",1,0,False
+707598341,garvankeeley,2020-09-23T18:45:05Z,2020-09-25T14:36:41Z,['Bug 🐞'],3,0,False
+707581204,GeckoEidechse,2020-09-23T18:23:03Z,2020-10-14T20:16:28Z,"['1', 'Bug 🐞', 'P2', 'QA Verified']",7,1,False
+707486169,isabelrios,2020-09-23T15:53:46Z,2020-09-24T21:26:31Z,"['eng:automation', 'iOS14']",0,0,False
+707266390,SimonBasca,2020-09-23T11:07:16Z,,"['Feature-Request', 'Needs-UX']",0,0,False
+707205651,isabelrios,2020-09-23T09:35:39Z,2020-11-05T08:50:40Z,"['eng:automation', 'eng:ui-test']",1,0,False
+707064455,digitalqualms,2020-09-23T05:44:13Z,,"['Feature-Request', 'P2']",15,13,False
+706650109,data-sync-user,2020-09-22T19:52:25Z,2020-10-07T17:28:51Z,"['1', 'QA Verified']",3,0,False
+706620047,dnarcese,2020-09-22T19:00:43Z,2020-09-22T21:37:18Z,"['2', 'Bug 🐞']",0,0,False
+706572079,Pr1m36,2020-09-22T17:40:19Z,2020-09-30T15:48:03Z,"['Bug 🐞', 'Crash', 'P1']",3,0,False
+706511984,data-sync-user,2020-09-22T16:06:04Z,,"['P2', 'eng-ready']",2,1,False
+706198911,isabelrios,2020-09-22T08:58:43Z,2020-10-01T16:02:45Z,"['2', 'Bug 🐞', 'P1', 'QA Verified', 'Should', 'ios14-widget']",1,0,False
+706019824,mvykol,2020-09-22T01:41:08Z,2021-05-10T20:34:19Z,"['Bug 🐞', 'P1', 'iOS14']",2,7,False
+705931195,rpappalax,2020-09-21T21:33:07Z,2020-09-22T21:13:10Z,['Bug 🐞'],1,0,False
+705917187,isabelrios,2020-09-21T21:06:57Z,2020-09-23T21:22:52Z,"['Bug 🐞', 'Needs-UX', 'P2', 'QA Verified']",2,0,False
+705516529,isabelrios,2020-09-21T11:35:28Z,2020-09-28T10:29:15Z,"['eng:automation', 'iOS14']",0,0,False
+705500444,isabelrios,2020-09-21T11:10:13Z,2020-09-25T13:56:16Z,"['Bug 🐞', 'P1', 'QA Verified', 'eng:bug-auto-found', 'iOS14']",2,0,False
+705392938,isabelrios,2020-09-21T08:24:15Z,2020-09-22T07:37:28Z,"['eng:automation', 'iOS14']",0,0,False
+704942529,chloekek,2020-09-19T17:31:18Z,,['Feature-Request'],0,0,False
+704647554,travis79,2020-09-18T20:46:47Z,,"['Bug 🐞', 'P2']",0,0,False
+704628874,athomasmoz,2020-09-18T20:11:39Z,2020-10-01T20:15:42Z,"['3', 'Crash', 'P1', 'QA Verified']",5,0,False
+704528639,charlieegan3,2020-09-18T17:06:41Z,,"['Bug 🐞', 'P2']",1,0,False
+704425493,SimonBasca,2020-09-18T14:27:58Z,2020-09-24T17:34:21Z,"['Bug 🐞', 'P1', 'QA Verified', 'iOS14']",5,0,False
+704413244,isabelrios,2020-09-18T14:12:03Z,2020-09-24T17:29:01Z,"['Bug 🐞', 'P1', 'QA Verified', 'Regression', 'eng:bug-auto-found', 'iOS14']",4,0,False
+704406488,isabelrios,2020-09-18T14:03:39Z,2020-10-05T17:30:41Z,"['3', 'Bug 🐞', 'P1', 'Regression', 'iOS14']",0,0,False
+704384302,SimonBasca,2020-09-18T13:35:08Z,2020-09-25T13:54:47Z,"['Bug 🐞', 'P1', 'QA Verified', 'Regression', 'iOS14']",3,1,False
+704269657,isabelrios,2020-09-18T10:27:10Z,2020-09-24T17:28:09Z,"['Bug 🐞', 'P1', 'QA Verified', 'Regression', 'Should', 'eng:bug-auto-found', 'iOS14']",3,0,False
+704162678,SimonBasca,2020-09-18T07:37:49Z,2021-02-04T09:42:35Z,['Bug 🐞'],2,0,False
+704044648,garvankeeley,2020-09-18T03:09:26Z,2021-02-26T17:44:07Z,['Bug 🐞'],0,0,False
+703068020,athomasmoz,2020-09-16T20:54:35Z,2020-09-17T16:19:34Z,['2'],1,0,False
+702858429,athomasmoz,2020-09-16T15:22:35Z,2020-10-14T20:28:18Z,['2'],0,0,False
+702760912,csuciu,2020-09-16T13:22:01Z,,"['Bug 🐞', 'P3']",0,0,False
+702057720,garvankeeley,2020-09-15T15:59:16Z,2020-09-22T15:44:38Z,"['Bug 🐞', 'QA Verified']",2,0,False
+702046539,SimonBasca,2020-09-15T15:44:57Z,2020-09-30T10:34:24Z,['Bug 🐞'],2,0,False
+701767518,isabelrios,2020-09-15T09:27:46Z,2020-09-17T15:48:19Z,"['eng:automation', 'eng:intermittent-test', 'eng:ui-test']",1,0,False
+701735627,isabelrios,2020-09-15T08:44:20Z,2020-09-16T21:44:03Z,"['Bug 🐞', 'QA Verified', 'eng:bug-auto-found']",2,0,False
+701592785,karlcow,2020-09-15T04:13:58Z,,"['Bug 🐞', 'P3']",2,0,False
+701107622,isabelrios,2020-09-14T13:32:15Z,,['eng:automation'],1,0,False
+701102489,jevans-mozilla,2020-09-14T13:25:52Z,2021-01-12T16:12:24Z,['Technical Improvement'],0,0,False
+700979326,isabelrios,2020-09-14T10:36:13Z,2020-09-14T13:54:29Z,['eng:automation'],0,0,False
+700534656,FoxRunTime,2020-09-13T09:37:17Z,2021-01-05T10:19:13Z,['Bug 🐞'],13,2,False
+699578723,bs,2020-09-11T17:44:03Z,,['Feature-Request'],0,0,False
+698368986,data-sync-user,2020-09-10T18:57:53Z,2020-10-19T21:12:42Z,['Needs-Strings'],1,1,False
+698267600,isabelrios,2020-09-10T17:25:43Z,2020-09-17T10:11:29Z,"['eng:automation', 'eng:ui-test', 'iOS14']",0,0,False
+698186538,isabelrios,2020-09-10T16:11:19Z,2020-09-25T08:38:51Z,"['eng:automation', 'eng:ui-test', 'iOS14']",4,0,False
+697722046,isabelrios,2020-09-10T10:13:02Z,,"['eng:automation', 'eng:ui-test']",0,0,False
+696796842,isabelrios,2020-09-09T13:04:04Z,,"['eng:automation', 'iOS14']",2,0,False
+692735712,thomcc,2020-09-04T05:24:18Z,,"['Bug 🐞', 'P2', 'a-s']",1,0,False
+692629247,pcrook,2020-09-04T02:44:58Z,2020-09-29T18:12:04Z,['Bug 🐞'],5,0,False
+692437489,james-culp,2020-09-03T22:17:29Z,,['P3'],1,4,False
+691481839,garvankeeley,2020-09-02T22:38:40Z,,['Bug 🐞'],0,0,False
+691436737,nbhasin2,2020-09-02T21:33:48Z,2020-09-16T16:25:32Z,['QA Verified'],1,0,False
+691090443,SathyaseelanRamachandran,2020-09-02T14:54:27Z,2021-07-09T08:36:48Z,['Bug 🐞'],3,0,False
+691085723,SathyaseelanRamachandran,2020-09-02T14:48:23Z,2021-03-25T16:51:39Z,['Bug 🐞'],1,0,False
+691076540,SathyaseelanRamachandran,2020-09-02T14:36:37Z,2021-03-25T16:55:14Z,['Bug 🐞'],1,0,False
+690148895,isabelrios,2020-09-01T13:35:27Z,2020-09-14T15:13:53Z,['eng:automation'],0,0,False
+690076739,isabelrios,2020-09-01T11:51:42Z,2020-09-14T15:18:53Z,"['Bug 🐞', 'Regression', 'eng:bug-auto-found']",0,0,False
+688724758,3qdev,2020-08-30T14:03:06Z,,"['Bug 🐞', 'P3']",2,0,False
+688669640,dosboxd,2020-08-30T07:22:05Z,2020-09-15T06:10:21Z,['Bug 🐞'],0,0,False
+688144533,SimonBasca,2020-08-28T15:10:53Z,2020-08-28T15:44:04Z,['Bug 🐞'],0,0,False
+687468392,garvankeeley,2020-08-27T18:56:45Z,,"['Bug 🐞', 'Crash']",0,0,False
+687304024,data-sync-user,2020-08-27T14:47:43Z,,['eng:automation'],0,0,False
+687200349,vasilicatamas,2020-08-27T12:24:30Z,,"['Bug 🐞', 'Needs Discovery', 'P2']",4,0,False
+687157002,Ju012,2020-08-27T11:13:47Z,,"['Bug 🐞', 'P2']",1,0,False
+686541064,garvankeeley,2020-08-26T18:52:31Z,2020-09-30T22:57:12Z,"['3', 'Bug 🐞', 'Crash', 'P2']",12,0,False
+686443493,athomasmoz,2020-08-26T16:08:57Z,,['Feature-Request'],0,0,False
+686375744,ComradeHadi,2020-08-26T14:38:30Z,2020-08-28T19:05:51Z,['Bug 🐞'],1,0,False
+686350358,JohanLorenzo,2020-08-26T14:06:30Z,2020-08-26T14:43:21Z,['Bug 🐞'],3,0,False
+686139020,NiklasBr,2020-08-26T08:53:01Z,,['Feature-Request'],0,0,False
+685744522,dnarcese,2020-08-25T19:45:49Z,2020-08-31T15:47:26Z,['2'],1,0,False
+685660640,garvankeeley,2020-08-25T17:23:29Z,2020-09-24T17:22:53Z,['Bug 🐞'],3,0,False
+685584753,SimonBasca,2020-08-25T15:31:11Z,,"['Bug 🐞', 'P2']",2,0,False
+685581659,SimonBasca,2020-08-25T15:27:04Z,,"['Bug 🐞', 'P2']",1,0,False
+685550775,jevans-mozilla,2020-08-25T14:47:23Z,2020-10-15T17:04:17Z,['Technical Debt'],0,0,False
+685549189,jevans-mozilla,2020-08-25T14:45:27Z,,"['3', 'P1']",4,0,False
+685543062,SimonBasca,2020-08-25T14:39:11Z,2021-03-25T17:01:17Z,"['Bug 🐞', 'P3']",1,0,False
+685540601,SimonBasca,2020-08-25T14:36:37Z,,"['Bug 🐞', 'P2']",1,0,False
+685527139,jevans-mozilla,2020-08-25T14:21:32Z,2020-09-08T21:22:26Z,"['5', 'P1']",0,0,False
+685523603,jevans-mozilla,2020-08-25T14:17:11Z,2020-09-18T19:34:22Z,"['P1', 'Should', 'Technical Debt']",0,0,False
+685523516,jevans-mozilla,2020-08-25T14:17:05Z,2020-09-18T19:34:17Z,"['P1', 'Should', 'Technical Debt']",0,0,False
+685500600,SimonBasca,2020-08-25T13:47:14Z,,"['Bug 🐞', 'P3']",1,0,False
+684904470,nbhasin2,2020-08-24T19:18:08Z,2020-09-24T17:36:22Z,"['2', 'Task 🛠']",0,0,False
+682163675,athomasmoz,2020-08-19T20:37:13Z,2020-08-28T19:16:28Z,"['1', 'Must']",1,0,False
+681893703,SimonBasca,2020-08-19T14:37:45Z,2020-10-23T19:25:59Z,"['2', 'Bug 🐞', 'P2', 'QA Verified']",4,0,False
+681829827,yusadogru,2020-08-19T13:13:27Z,2021-04-07T20:50:26Z,['contrib-patch'],0,0,False
+681096524,hennrynusasatria,2020-08-18T14:39:19Z,,['Feature-Request'],2,1,False
+680980387,isabelrios,2020-08-18T11:53:51Z,2020-08-18T21:27:13Z,['eng:automation'],0,0,False
+680488906,athomasmoz,2020-08-17T19:55:46Z,2020-09-02T21:52:26Z,"['2', 'Must']",7,0,False
+680403243,isabelrios,2020-08-17T17:29:09Z,2020-09-23T09:37:17Z,"['eng:automation', 'eng:ui-test', 'iOS14']",1,0,False
+679740581,jamielinux,2020-08-16T11:48:30Z,2020-09-14T17:04:52Z,['Feature-Request'],2,0,False
+679739131,jamielinux,2020-08-16T11:35:57Z,,['Feature-Request'],0,1,False
+679704746,Ju012,2020-08-16T07:11:43Z,2020-09-01T16:16:52Z,['Bug 🐞'],3,0,False
+679704242,Ju012,2020-08-16T07:08:16Z,2020-08-16T07:10:44Z,['Bug 🐞'],1,0,False
+679641917,kpetremann,2020-08-15T21:07:09Z,,"['Bug 🐞', 'P16107', 'P3']",0,0,False
+679388745,athomasmoz,2020-08-14T20:34:53Z,2020-08-28T19:17:38Z,"['2', 'Must']",0,0,False
+679388447,athomasmoz,2020-08-14T20:34:11Z,2020-08-28T19:15:50Z,"['2', 'Must']",0,0,False
+679387936,athomasmoz,2020-08-14T20:32:57Z,2020-08-20T15:21:01Z,"['1', 'iOS14']",0,0,False
+679387384,athomasmoz,2020-08-14T20:31:41Z,2020-08-20T15:21:05Z,"['2', 'Must', 'iOS14']",1,0,False
+679384838,athomasmoz,2020-08-14T20:25:41Z,2020-08-20T15:21:09Z,"['2', 'Must', 'iOS14']",0,0,False
+678673377,garvankeeley,2020-08-13T19:10:42Z,,"['5', 'Bug 🐞', 'P2']",1,0,False
+678670067,athomasmoz,2020-08-13T19:04:49Z,2020-09-14T15:18:05Z,"['1', 'Must', 'QA Verified']",3,0,False
+678395874,csuciu,2020-08-13T12:24:27Z,2021-06-28T10:30:26Z,"['Bug 🐞', 'Contributor OK', 'P16107', 'P3']",7,0,False
+678311547,isabelrios,2020-08-13T09:57:32Z,2020-09-09T12:55:24Z,"['eng:automation', 'eng:ui-test']",2,0,False
+678004826,athomasmoz,2020-08-12T21:59:43Z,2020-09-22T23:41:59Z,"['3', 'Needs-Strings', 'QA Verified']",3,0,False
+677678256,csuciu,2020-08-12T13:05:17Z,2020-08-25T15:46:41Z,"['Bug 🐞', 'Contributor OK', 'Crash', 'P2', 'QA Verified']",4,0,False
+677207474,data-sync-user,2020-08-11T21:24:30Z,,"['3', 'Should', 'Technical Improvement']",0,0,False
+677141746,jhhlim,2020-08-11T19:34:21Z,,['Bug 🐞'],4,0,False
+676904803,SimonBasca,2020-08-11T14:03:33Z,,"['2', 'Accessibility', 'Bug 🐞', 'P2']",0,1,False
+676497078,kaylagalway,2020-08-11T00:34:46Z,2020-09-10T19:50:00Z,"['5', 'Should', 'iOS14']",0,0,False
+676494965,kaylagalway,2020-08-11T00:27:24Z,,"['5', 'iOS14']",0,0,False
+676489801,kaylagalway,2020-08-11T00:10:20Z,,"['3', 'iOS14']",0,1,False
+676488757,kaylagalway,2020-08-11T00:07:20Z,,"['3', 'iOS14']",0,0,False
+676486931,kaylagalway,2020-08-11T00:01:54Z,2020-08-20T15:22:51Z,['5'],1,0,False
+676415311,athomasmoz,2020-08-10T21:04:00Z,2020-08-13T03:30:28Z,['1'],1,0,False
+675247096,garvankeeley,2020-08-07T20:06:04Z,2020-08-25T15:05:14Z,"['3', 'Bug 🐞', 'Must']",1,0,False
+675092598,athomasmoz,2020-08-07T15:31:53Z,2020-08-26T17:09:27Z,"['3', 'Bug 🐞', 'Must', 'P1', 'QA Verified', 'iOS14']",3,0,False
+674687591,vphong,2020-08-07T01:07:49Z,,['Technical Debt'],0,0,False
+673971615,ryanpcmcquen,2020-08-06T02:43:32Z,,['Feature-Request'],0,0,False
+673832529,data-sync-user,2020-08-05T20:38:55Z,2020-11-27T21:03:58Z,"['2', 'Must', 'QA Verified', 'ios14-widget']",3,0,False
+673150166,athomasmoz,2020-08-04T23:41:46Z,2020-08-13T03:30:27Z,['1'],1,0,False
+673149982,athomasmoz,2020-08-04T23:41:14Z,2020-08-13T03:30:27Z,['1'],2,0,False
+673147273,athomasmoz,2020-08-04T23:32:49Z,2020-09-10T14:19:37Z,"['2', 'QA Verified', 'Should']",7,1,False
+673146358,athomasmoz,2020-08-04T23:30:05Z,2020-09-02T21:51:56Z,"['2', 'Must', 'QA Verified']",3,0,False
+672992705,athomasmoz,2020-08-04T18:33:36Z,2020-08-25T14:41:29Z,"['Must', 'QA Verified', 'ios14-widget']",3,0,False
+672982987,athomasmoz,2020-08-04T18:15:41Z,,"['Could', 'ios14-widget']",0,0,False
+672905606,athomasmoz,2020-08-04T16:02:48Z,2020-08-05T18:32:10Z,['ios14-widget'],2,0,False
+672883991,athomasmoz,2020-08-04T15:31:35Z,2020-09-28T15:05:46Z,"['3', 'QA Verified', 'Should', 'ios14-widget']",2,0,False
+672882246,athomasmoz,2020-08-04T15:29:05Z,,"['3', 'Feature-Request', 'Should', 'ios14-widget']",2,0,False
+672879340,athomasmoz,2020-08-04T15:25:08Z,2020-09-28T15:06:00Z,"['3', 'QA Verified', 'Should', 'ios14-widget']",1,0,False
+672878780,sblatz,2020-08-04T15:24:26Z,,"['Bug 🐞', 'iOS14']",1,0,False
+672878276,garvankeeley,2020-08-04T15:23:44Z,2020-09-08T21:23:19Z,"['Blocked', 'Bug 🐞']",2,0,False
+672875356,athomasmoz,2020-08-04T15:19:50Z,2020-08-25T14:41:25Z,"['Must', 'QA Verified', 'ios14-widget']",4,0,False
+672865004,athomasmoz,2020-08-04T15:05:50Z,2020-08-05T22:02:20Z,"['1', 'QA Verified']",2,0,False
+671653325,De-Panther,2020-08-02T17:10:36Z,,['Bug 🐞'],0,0,False
+670055293,garvankeeley,2020-07-31T17:47:10Z,2020-09-14T16:20:37Z,"['3', 'Bug 🐞', 'Must', 'P1', 'security']",0,0,False
+670015219,sblatz,2020-07-31T16:58:16Z,,"['Bug 🐞', 'Needs-UX', 'P1', 'iOS14']",0,0,False
+669260658,athomasmoz,2020-07-30T22:52:35Z,2020-09-11T21:31:56Z,"['1', 'Must', 'QA Verified']",2,0,False
+669219861,vphong,2020-07-30T21:43:23Z,,"['2', 'Bug 🐞', 'P2', 'Q3']",0,0,False
+668906526,isabelrios,2020-07-30T16:00:15Z,2020-08-13T22:09:32Z,"['eng:automation', 'eng:ui-test']",0,0,False
+668887065,garvankeeley,2020-07-30T15:44:03Z,2021-02-26T17:52:04Z,['iOS14'],1,0,False
+668061530,sblatz,2020-07-29T18:45:46Z,,"['Bug 🐞', 'P2']",0,0,False
+667363895,nbhasin2,2020-07-28T20:46:19Z,,"['2', 'iOS14']",1,0,False
+667200878,isabelrios,2020-07-28T16:16:11Z,,"['eng:automation', 'eng:ui-test']",0,0,False
+667182633,nbhasin2,2020-07-28T15:50:04Z,2020-08-20T15:22:43Z,"['1', '3']",0,0,False
+667172656,isabelrios,2020-07-28T15:37:05Z,2020-09-30T09:41:14Z,"['eng:automation', 'eng:ui-test']",1,0,False
+667105910,isabelrios,2020-07-28T14:10:03Z,2020-08-06T06:48:05Z,"['eng:automation', 'eng:intermittent-test']",1,0,False
+667093465,isabelrios,2020-07-28T13:54:59Z,2020-12-11T16:04:51Z,"['eng:automation', 'eng:intermittent-test']",3,0,False
+666648024,garvankeeley,2020-07-27T23:31:52Z,,"['Bug 🐞', 'P2']",2,0,False
+666630852,athomasmoz,2020-07-27T22:46:36Z,2020-07-31T16:58:44Z,['5'],2,0,False
+665260235,ErinCall,2020-07-24T15:52:54Z,2020-08-11T13:25:53Z,"['Bug 🐞', 'Crash']",2,0,False
+664813474,athomasmoz,2020-07-23T22:56:22Z,,"['2', 'Feature-Request']",0,0,False
+664813080,athomasmoz,2020-07-23T22:55:09Z,,"['Feature-Request', 'Needs-UX']",3,0,False
+664433242,SimonBasca,2020-07-23T12:29:52Z,,"['Contributor OK', 'Feature-Request', 'P3']",4,0,False
+663900153,athomasmoz,2020-07-22T16:40:14Z,2020-10-19T20:21:18Z,"['5', 'Focus']",4,0,False
+663801819,AnaMedinac,2020-07-22T14:22:16Z,,"['1', 'Bug 🐞', 'Contributor OK', 'String Update', 'eng-ready']",16,1,False
+663778248,SimonBasca,2020-07-22T13:50:06Z,2020-08-27T14:01:47Z,"['Bug 🐞', 'P2', 'iOS14']",1,0,False
+663765019,SimonBasca,2020-07-22T13:31:22Z,,"['Bug 🐞', 'P2', 'iOS14']",0,1,False
+663572411,isabelrios,2020-07-22T08:23:13Z,2021-03-24T12:21:55Z,"['eng:automation', 'eng:intermittent-test']",2,1,False
+663545668,SimonBasca,2020-07-22T07:37:26Z,,"['Bug 🐞', 'P1', 'iOS14']",1,0,False
+663538503,SimonBasca,2020-07-22T07:24:21Z,,['Bug 🐞'],1,0,False
+663361342,athomasmoz,2020-07-21T23:03:59Z,2020-10-23T19:07:18Z,"['1', 'QA Verified']",2,0,False
+663360862,athomasmoz,2020-07-21T23:02:32Z,2020-10-23T19:07:22Z,"['2', 'QA Verified']",1,0,False
+663359534,athomasmoz,2020-07-21T22:58:59Z,2020-11-13T20:43:35Z,"['3', 'QA Verified']",1,0,False
+663355886,athomasmoz,2020-07-21T22:49:04Z,2021-06-24T19:24:10Z,['3'],7,0,False
+663165138,kaylagalway,2020-07-21T16:53:55Z,,"['Bug 🐞', 'Technical Debt']",1,0,False
+663097069,garvankeeley,2020-07-21T15:15:25Z,2020-07-28T15:20:09Z,"['1', 'Bug 🐞', 'P1', 'QA Verified', 'security']",3,0,False
+663086850,garvankeeley,2020-07-21T15:02:27Z,2020-07-22T19:48:12Z,"['2', 'Bug 🐞', 'P1', 'QA Verified', 'security']",3,0,False
+663080833,garvankeeley,2020-07-21T14:54:47Z,2020-08-14T00:51:18Z,"['3', 'Bug 🐞', 'QA Verified', 'security']",2,0,False
+661951925,garvankeeley,2020-07-20T15:26:29Z,2021-01-04T21:37:09Z,"['Bug 🐞', 'Contributor OK', 'P3', 'QA Verified']",2,0,False
+658143413,SimonBasca,2020-07-16T12:14:35Z,2021-05-12T17:14:31Z,"['1', 'Bug 🐞', 'Contributor OK']",7,0,False
+658134502,SimonBasca,2020-07-16T12:01:35Z,2020-08-19T14:40:26Z,"['1', '2', 'Bug 🐞', 'QA Verified']",2,0,False
+657666457,AaronMT,2020-07-15T21:18:48Z,2020-07-23T14:49:48Z,['Bug 🐞'],4,0,False
+657583680,a2sheppy,2020-07-15T19:04:43Z,,['Feature-Request'],6,0,False
+657533983,nbhasin2,2020-07-15T17:41:03Z,2020-09-01T11:44:23Z,"['2', 'Must', 'QA Verified']",5,0,False
+657249252,SimonBasca,2020-07-15T10:39:59Z,2020-07-20T13:24:24Z,"['Bug 🐞', 'QA Verified']",2,0,False
+656823621,vphong,2020-07-14T18:48:03Z,,"['5', 'Feature-Request']",0,0,False
+656805955,dnarcese,2020-07-14T18:18:37Z,2020-07-30T14:06:38Z,['3'],3,0,False
+656774056,athomasmoz,2020-07-14T17:21:47Z,2020-09-16T16:25:38Z,"['2', 'Should']",0,0,False
+656754212,garvankeeley,2020-07-14T16:47:17Z,,"['Bug 🐞', 'security']",0,0,False
+656752634,garvankeeley,2020-07-14T16:44:34Z,,"['Feature-Request', 'security']",1,0,False
+656691696,isabelrios,2020-07-14T15:14:57Z,2020-09-23T13:10:41Z,['eng:automation'],6,0,False
+656677857,garvankeeley,2020-07-14T14:56:10Z,2020-07-14T14:56:14Z,"['2', 'Bug 🐞']",0,0,False
+656675542,garvankeeley,2020-07-14T14:53:05Z,2020-07-14T16:34:47Z,"['2', 'Bug 🐞']",0,0,False
+656525743,SimonBasca,2020-07-14T11:02:06Z,2020-08-25T20:29:15Z,"['Bug 🐞', 'QA Verified', 'contrib-patch']",3,0,False
+656499762,SimonBasca,2020-07-14T10:17:46Z,2020-07-24T14:27:09Z,"['1', 'Bug 🐞', 'P2', 'QA Verified']",1,0,False
+656223481,vphong,2020-07-13T23:45:18Z,2020-08-17T22:07:23Z,"['5', 'Feature-Request']",0,0,False
+656218299,vphong,2020-07-13T23:30:07Z,2020-08-10T22:16:29Z,"['3', 'Feature-Request']",3,0,False
+656209699,vphong,2020-07-13T23:14:52Z,2020-07-25T19:29:28Z,"['2', 'Feature-Request']",0,0,False
+654759775,drootang,2020-07-10T12:51:26Z,2020-07-21T17:51:17Z,"['2', 'Bug 🐞', 'P1', 'QA Verified']",8,0,False
+654322336,BigSamSampson,2020-07-09T20:17:27Z,2020-07-16T16:26:01Z,"['Bug 🐞', 'Crash', 'P2', 'QA Verified', 'contrib-patch']",3,0,False
+654290406,garvankeeley,2020-07-09T19:17:55Z,,"['3', 'Bug 🐞', 'P3']",0,0,False
+654269197,garvankeeley,2020-07-09T18:39:14Z,2020-07-14T17:36:50Z,"['1', 'Bug 🐞', 'security']",1,0,False
+654138689,nbhasin2,2020-07-09T15:10:49Z,2020-07-09T19:24:58Z,"['2', 'QA Verified']",0,0,False
+653324401,isabelrios,2020-07-08T14:02:19Z,,['P2'],0,0,False
+653192785,QXD-me,2020-07-08T10:49:18Z,,['Feature-Request'],4,0,False
+653061432,BigSamSampson,2020-07-08T07:29:40Z,,['Bug 🐞'],2,0,False
+653019642,BigSamSampson,2020-07-08T06:26:00Z,,"['Bug 🐞', 'P3']",1,0,False
+652874973,brampitoyo,2020-07-08T03:05:57Z,2020-08-04T18:35:34Z,['Feature-Request'],4,0,False
+652864831,brampitoyo,2020-07-08T02:51:25Z,2020-07-23T22:11:36Z,"['Feature-Request', 'QA Verified', 'eng-ready']",12,0,False
+652750389,jaredhirsch,2020-07-07T23:49:11Z,2020-11-13T20:42:28Z,"['2', 'Feature-Request', 'P1', 'QA Verified']",5,0,False
+652636270,athomasmoz,2020-07-07T20:54:43Z,2020-07-22T07:15:32Z,"['2', 'Bug 🐞', 'P1', 'QA Verified', 'iOS14']",8,0,False
+652535689,athomasmoz,2020-07-07T18:39:20Z,2020-09-08T17:15:04Z,"['Blocked', 'Focus', 'Must']",3,0,False
+652534045,athomasmoz,2020-07-07T18:36:24Z,2020-10-26T18:53:40Z,"['2', 'Feature-Request', 'Focus', 'Must', 'QA Verified']",3,0,False
+652529489,athomasmoz,2020-07-07T18:28:16Z,2020-08-04T15:09:25Z,"['2', 'Bug 🐞', 'Focus', 'QA Verified']",2,0,False
+652529162,athomasmoz,2020-07-07T18:27:44Z,,"['Bug 🐞', 'Focus']",0,0,False
+652528824,athomasmoz,2020-07-07T18:27:05Z,,"['1', 'Bug 🐞', 'Focus']",0,0,False
+652481179,athomasmoz,2020-07-07T17:04:16Z,2020-08-18T22:55:03Z,['ux:exploration'],2,0,False
+652434648,BigSamSampson,2020-07-07T15:53:02Z,2020-08-14T18:52:38Z,['Bug 🐞'],1,0,False
+652419599,nbhasin2,2020-07-07T15:32:12Z,2020-07-23T21:16:33Z,['QA Verified'],1,0,False
+652198540,SimonBasca,2020-07-07T10:16:22Z,,"['1', 'Bug 🐞', 'P2', 'Q3']",2,0,False
+652183079,SimonBasca,2020-07-07T09:54:53Z,2020-08-14T18:56:00Z,['Bug 🐞'],2,0,False
+652041426,BigSamSampson,2020-07-07T06:30:20Z,,"['1', 'Bug 🐞']",3,0,False
+651858935,athomasmoz,2020-07-06T22:35:00Z,,"['3', '5', 'Feature-Request']",3,3,False
+651857157,athomasmoz,2020-07-06T22:30:10Z,2021-03-03T19:58:32Z,"['5', 'QA Verified']",3,0,False
+651780231,athomasmoz,2020-07-06T19:50:55Z,2020-07-21T18:03:32Z,"['5', 'Bug 🐞', 'Q3', 'QA Verified']",4,0,False
+651777238,athomasmoz,2020-07-06T19:44:52Z,,"['1', '2']",4,0,False
+651494237,BigSamSampson,2020-07-06T12:21:42Z,2020-07-16T15:50:12Z,['Bug 🐞'],2,0,False
+650746868,athomasmoz,2020-07-03T19:52:03Z,2020-07-06T20:04:51Z,"['Bug 🐞', 'Crash']",4,0,False
+650121562,nbhasin2,2020-07-02T18:17:33Z,,['iOS14'],0,0,False
+649060289,isabelrios,2020-07-01T15:10:36Z,2020-07-06T16:55:34Z,['P2'],0,0,False
+648477902,nbhasin2,2020-06-30T20:40:27Z,2020-07-07T14:28:55Z,"['1', 'iOS14']",3,0,False
+648369192,athomasmoz,2020-06-30T17:31:59Z,,"['1', '3']",0,0,False
+648365747,athomasmoz,2020-06-30T17:28:33Z,2020-07-14T15:05:29Z,['2'],1,0,False
+648357680,athomasmoz,2020-06-30T17:19:46Z,2020-07-15T21:53:48Z,"['1', '2', 'QA Verified']",3,0,False
+648043519,SimonBasca,2020-06-30T10:01:50Z,2020-07-16T16:39:09Z,['Bug 🐞'],1,0,False
+647992709,SimonBasca,2020-06-30T08:51:13Z,2020-07-01T08:53:09Z,"['Bug 🐞', 'P1']",2,0,False
+647737924,athomasmoz,2020-06-29T23:37:11Z,2020-08-10T06:30:46Z,['2'],2,0,False
+647735996,athomasmoz,2020-06-29T23:31:35Z,2020-07-23T16:54:40Z,"['2', 'Feature-Request']",5,0,False
+647560150,nbhasin2,2020-06-29T17:54:58Z,,"['3', 'Technical Improvement', 'iOS14']",0,0,False
+647533328,athomasmoz,2020-06-29T17:06:57Z,2020-08-25T20:35:09Z,"['2', 'Must', 'QA Verified', 'iOS14']",1,0,False
+647453965,garvankeeley,2020-06-29T15:06:58Z,2020-06-30T15:11:15Z,"['1', 'Bug 🐞', 'Crash']",0,0,False
+647415458,SimonBasca,2020-06-29T14:17:03Z,,['Feature-Request'],1,0,False
+647153358,tsuiyuenhong,2020-06-29T06:30:49Z,2020-07-20T13:29:07Z,['Bug 🐞'],1,0,False
+646147871,TheoChevalier,2020-06-26T09:52:29Z,2020-07-14T07:31:55Z,"['Bug 🐞', 'QA Verified']",1,0,False
+646046140,isabelrios,2020-06-26T06:41:47Z,2020-06-29T14:57:09Z,['eng:automation'],0,0,False
+645736039,isabelrios,2020-06-25T17:33:25Z,2020-06-26T06:07:33Z,['eng:automation'],0,0,False
+645681319,SimonBasca,2020-06-25T16:02:52Z,,['Bug 🐞'],1,0,False
+645661300,SimonBasca,2020-06-25T15:36:13Z,,['Bug 🐞'],0,0,False
+645593462,abodea,2020-06-25T14:07:35Z,,"['Feature-Request', 'Needs-UX']",2,0,False
+645591357,abodea,2020-06-25T14:04:53Z,2020-06-30T19:09:23Z,['Bug 🐞'],0,0,False
+645573544,SimonBasca,2020-06-25T13:42:44Z,,['Bug 🐞'],1,0,False
+644727440,athomasmoz,2020-06-24T15:55:27Z,2020-08-18T14:41:54Z,"['1', '2', '3', 'Feature-Request', 'QA Verified']",4,1,False
+644713075,athomasmoz,2020-06-24T15:34:50Z,2020-07-09T20:27:34Z,"['2', 'Feature-Request', 'QA Verified', 'contrib-patch']",5,0,False
+644710966,ghost,2020-06-24T15:31:49Z,2020-06-24T16:26:14Z,"['Bug 🐞', 'Crash']",2,0,False
+644698383,nbhasin2,2020-06-24T15:15:06Z,2020-06-26T14:29:29Z,"['2', 'P1', 'QA Verified']",4,0,False
+644501182,SimonBasca,2020-06-24T10:24:39Z,,['Bug 🐞'],0,0,False
+643528723,joeyg,2020-06-23T04:50:20Z,2020-06-23T20:05:42Z,['Bug 🐞'],1,0,False
+643374877,garvankeeley,2020-06-22T21:33:34Z,,['Feature-Request'],0,0,False
+643373424,garvankeeley,2020-06-22T21:30:43Z,,['Feature-Request'],0,0,False
+643372009,garvankeeley,2020-06-22T21:27:53Z,,['Feature-Request'],0,0,False
+643333700,dnarcese,2020-06-22T20:16:14Z,2020-07-15T18:18:53Z,"['2', 'QA Verified']",2,0,False
+643157897,vladikoff,2020-06-22T15:19:50Z,,['Bug 🐞'],0,0,False
+643137076,BigSamSampson,2020-06-22T14:53:33Z,,['Bug 🐞'],4,0,False
+643040811,SimonBasca,2020-06-22T12:43:12Z,,['Bug 🐞'],2,0,False
+643020825,SimonBasca,2020-06-22T12:14:35Z,,"['Accessibility', 'Bug 🐞', 'P3']",0,0,False
+642992993,SimonBasca,2020-06-22T11:34:08Z,2020-07-20T18:14:58Z,"['Bug 🐞', 'QA Verified']",1,0,False
+641853365,SimonBasca,2020-06-19T09:59:38Z,2020-07-16T15:58:22Z,"['Bug 🐞', 'Crash']",4,0,False
+641657464,rfk,2020-06-19T02:23:11Z,,"['Feature-Request', 'P2']",0,0,False
+641597368,athomasmoz,2020-06-18T23:01:00Z,2020-07-06T21:01:16Z,"['3', 'Blocked', 'Bug 🐞', 'P1']",10,0,False
+641595438,athomasmoz,2020-06-18T22:55:18Z,2020-07-22T22:17:17Z,"['3', 'QA Verified']",2,0,False
+641586372,Delphine,2020-06-18T22:29:11Z,,"['Bug 🐞', 'Needs-Strings', 'Needs-UX']",5,0,False
+641048529,SimonBasca,2020-06-18T09:18:22Z,,"['Bug 🐞', 'P2']",3,0,False
+640024446,vphong,2020-06-16T23:00:04Z,2020-07-14T15:07:30Z,['3'],0,0,False
+639667719,SimonBasca,2020-06-16T13:31:39Z,,"['Feature-Request', 'P2']",0,0,False
+639608249,SimonBasca,2020-06-16T12:00:34Z,,"['Bug 🐞', 'Feature-Request', 'P2', 'Q3']",0,0,False
+639586993,SimonBasca,2020-06-16T11:24:41Z,,"['Feature-Request', 'Needs-UX']",2,0,False
+639567506,SimonBasca,2020-06-16T10:51:15Z,,['Feature-Request'],0,0,False
+639162008,garvankeeley,2020-06-15T21:08:55Z,2020-06-16T19:55:57Z,"['1', 'Bug 🐞']",0,0,False
+639045738,james-culp,2020-06-15T18:18:19Z,,['Bug 🐞'],0,0,False
+639002483,magorlick,2020-06-15T16:59:32Z,2020-08-26T16:32:30Z,"['Blocked', 'Feature-Request']",2,0,False
+638857388,isabelrios,2020-06-15T13:32:28Z,2020-06-15T17:34:14Z,['eng:automation'],1,0,False
+638850049,isabelrios,2020-06-15T13:22:39Z,2020-06-16T14:12:44Z,"['1', 'eng:automation']",0,0,False
+638450821,brampitoyo,2020-06-14T23:21:28Z,2020-08-20T15:39:02Z,"['Feature-Request', 'QA Verified']",7,0,False
+638257115,a2sheppy,2020-06-14T00:17:12Z,,['Feature-Request'],0,2,False
+637998190,say-yawn,2020-06-12T20:53:33Z,,['Feature-Request'],3,0,False
+637892209,211217613,2020-06-12T17:05:29Z,,['Feature-Request'],0,0,False
+637755818,garvankeeley,2020-06-12T13:36:53Z,2020-06-18T14:26:37Z,"['Bug 🐞', 'QA Verified']",1,0,False
+636797953,isabelrios,2020-06-11T07:47:15Z,2020-07-03T16:54:49Z,['eng:automation'],5,0,False
+636485986,machenmusik,2020-06-10T19:17:10Z,,"['Bug 🐞', 'P2']",1,0,False
+636236961,SimonBasca,2020-06-10T13:14:55Z,,['Bug 🐞'],0,0,False
+636054149,SimonBasca,2020-06-10T08:41:37Z,2020-07-20T16:47:55Z,"['Bug 🐞', 'QA Verified']",1,0,False
+636054098,SimonBasca,2020-06-10T08:41:32Z,,['Bug 🐞'],4,0,False
+636036250,SimonBasca,2020-06-10T08:16:30Z,2020-07-20T17:18:38Z,"['Bug 🐞', 'QA Verified']",2,0,False
+635625490,athomasmoz,2020-06-09T17:20:25Z,2020-06-16T19:33:30Z,['2'],0,0,False
+635481930,dnarcese,2020-06-09T14:31:16Z,2020-06-15T14:28:23Z,"['2', 'QA Verified']",1,0,False
+635431089,csuciu,2020-06-09T13:28:14Z,2020-06-24T17:40:22Z,['QA Verified'],2,0,False
+635398372,csuciu,2020-06-09T12:47:00Z,2020-06-24T17:40:22Z,['QA Verified'],1,0,False
+635393543,csuciu,2020-06-09T12:39:36Z,2020-06-24T17:40:22Z,['QA Verified'],1,0,False
+635180911,isabelrios,2020-06-09T07:27:43Z,2020-10-26T16:11:41Z,['Bug 🐞'],2,0,False
+635161407,isabelrios,2020-06-09T06:53:44Z,2020-07-20T17:18:27Z,"['Bug 🐞', 'QA Verified']",3,0,False
+633957824,astrosticks,2020-06-08T01:24:44Z,,['Feature-Request'],1,0,False
+630998244,isabelrios,2020-06-04T16:59:58Z,2020-06-05T15:08:02Z,['eng:automation'],0,0,False
+630990077,garvankeeley,2020-06-04T16:47:50Z,2020-07-29T18:21:25Z,"['2', 'Bug 🐞', 'security']",2,0,False
+630960431,garvankeeley,2020-06-04T16:05:45Z,2020-06-05T19:14:32Z,['Bug 🐞'],4,0,False
+630930793,garvankeeley,2020-06-04T15:27:29Z,2020-06-04T15:30:06Z,"['Feature-Request', 'QA Verified']",3,0,False
+629969387,muhasturk,2020-06-03T12:52:07Z,2020-06-18T15:16:06Z,['Bug 🐞'],1,0,False
+629531889,dnarcese,2020-06-02T21:36:29Z,2020-06-16T19:34:02Z,"['5', 'QA Verified']",2,0,False
+629487206,nbhasin2,2020-06-02T20:20:09Z,2020-07-02T12:05:29Z,"['2', 'Bug 🐞']",1,0,False
+629396392,AmyYLee,2020-06-02T17:48:54Z,2020-06-24T17:05:21Z,"['Feature-Request', 'P2', 'QA Verified', 'contrib-patch']",6,0,False
+629380764,vasilicatamas,2020-06-02T17:28:19Z,2020-06-05T20:31:31Z,"['Bug 🐞', 'Crash', 'P2', 'QA Verified', 'contrib-patch']",2,0,False
+629302306,athomasmoz,2020-06-02T15:32:09Z,2020-07-02T21:08:12Z,['5'],2,0,False
+628540652,garvankeeley,2020-06-01T15:44:03Z,2020-06-22T21:48:58Z,"['2', 'Bug 🐞', 'Crash']",0,0,False
+628539578,garvankeeley,2020-06-01T15:42:26Z,2020-06-29T21:53:40Z,"['3', 'Bug 🐞', 'Crash', 'P2', 'QA Verified']",4,0,False
+628537987,garvankeeley,2020-06-01T15:39:54Z,2020-06-01T22:03:45Z,"['Bug 🐞', 'Crash']",2,0,False
+628467334,isabelrios,2020-06-01T14:07:57Z,2020-06-03T16:01:50Z,['eng:automation'],0,0,False
+627967010,FloMiau,2020-05-31T13:46:39Z,,"['Feature-Request', 'Needs-Strings']",5,0,False
+627884316,LamourBt,2020-05-31T03:40:17Z,2020-07-29T17:29:10Z,"['Contributor OK', 'P3', 'Technical Improvement']",1,0,False
+627491479,athomasmoz,2020-05-29T19:28:21Z,,['2'],0,0,False
+626842615,kaylagalway,2020-05-28T21:58:23Z,,['1'],6,0,False
+626834383,AmyYLee,2020-05-28T21:41:21Z,2020-06-29T21:53:18Z,"['1', 'Accessibility', 'P2', 'QA Verified', 'eng-ready']",2,0,False
+626770863,dnarcese,2020-05-28T19:50:03Z,2020-06-05T22:01:10Z,['QA Verified'],1,0,False
+626717884,OddHouseGames,2020-05-28T18:23:26Z,,"['Feature-Request', 'Needs Discovery', 'Needs-UX', 'P2']",4,0,False
+626708405,kaylagalway,2020-05-28T18:06:57Z,2020-06-30T17:04:46Z,['5'],5,0,False
+626706906,kaylagalway,2020-05-28T18:04:24Z,2020-06-01T16:47:08Z,"['2', 'Feature-Request']",0,0,False
+625718362,garvankeeley,2020-05-27T13:55:44Z,2020-05-27T16:17:23Z,"['Bug 🐞', 'QA Verified', 'Release Blocker']",1,0,False
+625141907,vphong,2020-05-26T19:34:10Z,2020-07-25T19:29:54Z,['Feature-Request'],0,0,False
+625050033,nbhasin2,2020-05-26T17:19:42Z,2020-05-28T15:05:51Z,['2'],2,0,False
+625048828,nbhasin2,2020-05-26T17:17:36Z,2020-06-16T21:16:56Z,['1'],0,0,False
+625047776,athomasmoz,2020-05-26T17:15:48Z,2020-06-11T20:29:05Z,['5'],0,0,False
+625041157,jevans-mozilla,2020-05-26T17:04:37Z,2020-07-28T15:45:07Z,"['2', 'Technical Improvement']",1,0,False
+624942467,garvankeeley,2020-05-26T14:48:27Z,2020-05-26T21:37:49Z,"['1', 'Bug 🐞', 'QA Verified', 'Release Blocker']",3,0,False
+624390890,SimonBasca,2020-05-25T16:25:33Z,,"['Bug 🐞', 'P2']",0,0,False
+624287158,SimonBasca,2020-05-25T13:02:40Z,,"['Bug 🐞', 'Crash']",0,0,False
+623780169,aj0413,2020-05-24T02:33:41Z,,['Feature-Request'],5,1,False
+623363159,isabelrios,2020-05-22T17:05:29Z,2020-05-26T15:16:07Z,"['1', 'Bug 🐞', 'QA Verified', 'Regression']",1,0,False
+623330342,nbhasin2,2020-05-22T16:28:04Z,,['Bug 🐞'],7,0,False
+623322623,nbhasin2,2020-05-22T16:18:52Z,,['Bug 🐞'],2,0,False
+623268973,bastien-effetb,2020-05-22T15:00:21Z,2020-06-04T15:59:47Z,['Bug 🐞'],4,0,False
+623223695,SimonBasca,2020-05-22T13:53:08Z,2020-06-11T20:28:12Z,"['3', 'Bug 🐞', 'P2', 'QA Verified', 'Regression']",9,1,False
+623155564,SimonBasca,2020-05-22T11:52:42Z,2020-05-25T21:37:50Z,['Bug 🐞'],1,0,False
+623120173,SimonBasca,2020-05-22T10:42:12Z,2020-05-22T19:54:21Z,"['1', 'Bug 🐞', 'QA Verified']",3,0,False
+622677752,garvankeeley,2020-05-21T18:02:15Z,2020-08-06T02:44:56Z,"['Bug 🐞', 'Contributor OK']",4,0,False
+622670938,dnarcese,2020-05-21T17:50:50Z,2020-05-28T19:37:43Z,['5'],5,0,False
+622628938,garvankeeley,2020-05-21T16:36:06Z,,"['Bug 🐞', 'Needs-UX']",0,0,False
+622567925,nbhasin2,2020-05-21T15:10:28Z,2020-05-28T15:22:35Z,"['5', 'Bug 🐞']",3,0,False
+622516005,SimonBasca,2020-05-21T13:55:49Z,2020-05-21T18:21:01Z,"['1', 'Bug 🐞', 'P1', 'QA Verified']",2,0,False
+622504735,SimonBasca,2020-05-21T13:37:11Z,2020-05-21T18:04:42Z,"['1', 'Bug 🐞', 'P1', 'QA Verified']",3,0,False
+622455935,isabelrios,2020-05-21T12:07:50Z,2020-05-28T16:17:21Z,['eng:automation'],1,0,False
+622400689,chrmod,2020-05-21T10:19:54Z,2020-05-29T15:35:32Z,"['Bug 🐞', 'P3']",3,0,False
+621946305,eoger,2020-05-20T17:22:41Z,2020-05-21T21:00:05Z,"['Bug 🐞', 'QA Verified']",7,0,False
+621925514,vphong,2020-05-20T16:55:18Z,2020-07-16T18:04:44Z,['Feature-Request'],2,0,False
+621923914,vphong,2020-05-20T16:53:16Z,2020-05-30T00:46:49Z,['Feature-Request'],0,0,False
+621923259,vphong,2020-05-20T16:52:29Z,2020-07-14T15:05:39Z,['Feature-Request'],0,0,False
+621920566,vphong,2020-05-20T16:48:51Z,2020-05-26T20:22:15Z,"['5', 'Feature-Request']",3,0,False
+621811521,SimonBasca,2020-05-20T14:32:37Z,,"['Blocked', 'Bug 🐞', 'P1', 'Q3']",3,2,False
+621083861,athomasmoz,2020-05-19T15:40:42Z,2020-05-26T20:01:47Z,['1'],1,0,False
+621083170,athomasmoz,2020-05-19T15:39:46Z,2020-06-09T13:00:54Z,['1'],0,0,False
+621082345,garvankeeley,2020-05-19T15:38:41Z,2020-05-19T16:47:26Z,"['Bug 🐞', 'security']",1,0,False
+621079226,garvankeeley,2020-05-19T15:34:38Z,,"['Bug 🐞', 'P3', 'security']",3,0,False
+621078343,garvankeeley,2020-05-19T15:33:34Z,,"['Bug 🐞', 'P3', 'security']",1,0,False
+621070737,garvankeeley,2020-05-19T15:24:09Z,2020-07-14T17:40:32Z,"['3', 'Bug 🐞', 'P1', 'QA Verified']",1,0,False
+620152793,isabelrios,2020-05-18T12:03:28Z,2020-05-19T13:30:00Z,['eng:automation'],0,0,False
+620102066,SimonBasca,2020-05-18T10:38:34Z,,['Feature-Request'],11,11,False
+620099453,SimonBasca,2020-05-18T10:34:08Z,,"['1', 'Bug 🐞', 'P2', 'Q3']",4,0,False
+619415543,howeik,2020-05-16T08:37:09Z,,['Feature-Request'],2,3,False
+618910492,SimonBasca,2020-05-15T11:49:34Z,2020-05-17T17:23:34Z,"['1', 'Bug 🐞', 'QA Verified']",3,0,False
+618522345,nbhasin2,2020-05-14T20:41:21Z,2021-05-17T19:35:21Z,"['Accessibility', 'Bug 🐞', 'P2', 'QA Verified']",6,0,False
+618454657,garvankeeley,2020-05-14T18:41:24Z,,['Bug 🐞'],1,0,False
+618446872,isa-mobile,2020-05-14T18:27:57Z,2020-06-16T20:08:54Z,"['2', 'Bug 🐞', 'QA Verified']",7,0,False
+618401417,jevans-mozilla,2020-05-14T17:11:32Z,2020-11-03T21:39:53Z,"['3', 'Technical Debt']",3,0,False
+618136128,Janscho,2020-05-14T11:02:52Z,,['Feature-Request'],0,0,False
+617659855,garvankeeley,2020-05-13T18:23:43Z,,['Bug 🐞'],0,0,False
+616825366,athomasmoz,2020-05-12T17:19:41Z,2020-05-26T15:11:00Z,['3'],0,0,False
+616824788,athomasmoz,2020-05-12T17:18:44Z,2020-05-26T15:28:34Z,['3'],0,0,False
+616821503,jevans-mozilla,2020-05-12T17:13:22Z,2020-06-11T20:29:27Z,"['3', 'security']",0,0,False
+616819599,jevans-mozilla,2020-05-12T17:10:16Z,2020-05-19T16:00:27Z,"['3', 'security']",2,0,False
+616816984,garvankeeley,2020-05-12T17:05:45Z,,"['Bug 🐞', 'eng:automation']",2,0,False
+616814993,garvankeeley,2020-05-12T17:02:32Z,,['Bug 🐞'],0,0,False
+616747935,isa-mobile,2020-05-12T15:25:48Z,2020-06-11T20:28:01Z,"['2', 'Bug 🐞']",2,0,False
+616679723,lwa-moz,2020-05-12T13:58:38Z,2020-05-12T14:30:00Z,['Bug 🐞'],0,0,False
+615992749,isabelrios,2020-05-11T15:54:02Z,2020-05-18T17:43:20Z,"['Bug 🐞', 'eng:automation']",3,0,False
+615905720,garvankeeley,2020-05-11T13:56:52Z,,"['3', 'Bug 🐞', 'P2']",0,0,False
+615727521,SimonBasca,2020-05-11T09:20:33Z,,['Bug 🐞'],0,0,False
+615724868,SimonBasca,2020-05-11T09:16:59Z,,['Feature-Request'],0,0,False
+615343627,joachimesque,2020-05-10T08:30:41Z,2020-06-22T10:42:15Z,['Bug 🐞'],2,1,False
+614916148,garvankeeley,2020-05-08T18:46:26Z,2020-05-08T19:58:03Z,"['Feature-Request', 'QA Verified']",1,0,False
+614762839,qqvm,2020-05-08T14:03:05Z,,['Bug 🐞'],3,3,False
+614759137,qqvm,2020-05-08T13:56:39Z,,['Bug 🐞'],2,0,False
+614715761,SimonBasca,2020-05-08T12:35:18Z,,['Bug 🐞'],2,0,False
+614343593,OddHouseGames,2020-05-07T21:05:53Z,,['Feature-Request'],0,0,False
+614178170,athomasmoz,2020-05-07T16:12:22Z,,['Feature-Request'],1,1,False
+614142816,kaylagalway,2020-05-07T15:22:17Z,2020-08-11T00:56:21Z,"['2', 'Feature-Request']",1,0,False
+614092137,SimonBasca,2020-05-07T14:14:49Z,,"['Bug 🐞', 'P2']",2,0,False
+614014395,SimonBasca,2020-05-07T12:22:05Z,,"['Bug 🐞', 'P3']",0,0,False
+613647379,garvankeeley,2020-05-06T22:16:31Z,2020-05-20T13:54:26Z,"['3', 'Feature-Request', 'P1', 'QA Verified']",3,0,False
+613600989,isabelrios,2020-05-06T20:43:30Z,2020-06-30T15:40:06Z,"['5', 'Bug 🐞', 'eng:automation', 'eng:bug-auto-found']",14,0,False
+613599662,dnarcese,2020-05-06T20:41:06Z,2020-06-08T20:58:06Z,"['5', 'QA Verified']",3,0,False
+613550127,eoger,2020-05-06T19:14:39Z,,"['Bug 🐞', 'P3', 'Q3']",2,0,False
+613497896,AnaMedinac,2020-05-06T17:44:51Z,2020-05-06T23:21:38Z,"['Bug 🐞', 'QA Verified']",1,0,False
+613470528,athomasmoz,2020-05-06T16:59:03Z,2020-05-08T22:02:10Z,"['3', 'Bug 🐞', 'QA Verified']",6,0,False
+613292101,JohanLorenzo,2020-05-06T12:46:19Z,2020-05-29T12:55:38Z,"['Bug 🐞', 'eng:automation']",5,0,False
+613252338,SimonBasca,2020-05-06T11:37:04Z,,['Feature-Request'],0,0,False
+613251610,SimonBasca,2020-05-06T11:35:36Z,,['Bug 🐞'],0,0,False
+613250348,SimonBasca,2020-05-06T11:33:12Z,,['Bug 🐞'],0,0,False
+613248589,SimonBasca,2020-05-06T11:29:59Z,,['Bug 🐞'],0,0,False
+613247792,SimonBasca,2020-05-06T11:28:30Z,,['Bug 🐞'],0,0,False
+613246019,SimonBasca,2020-05-06T11:25:39Z,,['Bug 🐞'],0,0,False
+613244975,SimonBasca,2020-05-06T11:23:52Z,,['Bug 🐞'],0,0,False
+613242665,SimonBasca,2020-05-06T11:19:53Z,,['Bug 🐞'],0,0,False
+613240479,SimonBasca,2020-05-06T11:16:04Z,,['Bug 🐞'],0,0,False
+613237943,SimonBasca,2020-05-06T11:11:28Z,,['Bug 🐞'],0,0,False
+613234605,SimonBasca,2020-05-06T11:05:02Z,,['Bug 🐞'],1,0,False
+613214919,SimonBasca,2020-05-06T10:31:05Z,,['Bug 🐞'],1,0,False
+612862610,marank,2020-05-05T20:07:20Z,2021-03-25T16:58:28Z,"['Bug 🐞', 'P3']",19,9,False
+612712557,athomasmoz,2020-05-05T15:57:37Z,,['eng:automation'],3,0,False
+612617369,SimonBasca,2020-05-05T13:48:34Z,2020-06-04T15:50:06Z,['Bug 🐞'],4,0,False
+612614720,SimonBasca,2020-05-05T13:45:01Z,,['Bug 🐞'],3,0,False
+612247324,karlcow,2020-05-05T00:10:53Z,2020-05-11T21:13:51Z,"['Bug 🐞', 'P2']",6,0,False
+612142961,garvankeeley,2020-05-04T20:21:09Z,,"['Blocked', 'Bug 🐞', 'P2', 'a-s']",0,0,False
+611999368,garvankeeley,2020-05-04T16:18:21Z,,['Bug 🐞'],4,0,False
+611953509,garvankeeley,2020-05-04T15:14:35Z,,['Bug 🐞'],1,0,False
+611951069,garvankeeley,2020-05-04T15:11:21Z,2020-05-05T17:59:44Z,"['2', 'Bug 🐞']",0,0,False
+611881723,isabelrios,2020-05-04T13:37:34Z,2020-05-07T15:16:45Z,['eng:automation'],1,0,False
+611533673,griffineyes,2020-05-03T23:31:52Z,,['Feature-Request'],0,0,False
+611229404,jacobzmidzinski,2020-05-02T16:49:38Z,,['Crash'],0,1,False
+611108695,Rukario,2020-05-02T05:03:03Z,,['Bug 🐞'],3,0,False
+610908582,athomasmoz,2020-05-01T18:51:45Z,,"['1', 'Feature-Request']",0,0,False
+610907194,athomasmoz,2020-05-01T18:48:31Z,2020-08-04T00:08:42Z,['Feature-Request'],1,0,False
+610906819,athomasmoz,2020-05-01T18:47:41Z,2020-07-22T16:35:31Z,"['2', '3', 'Feature-Request']",0,0,False
+610901937,athomasmoz,2020-05-01T18:37:22Z,2020-05-29T16:03:00Z,"['3', 'Feature-Request']",0,0,False
+610229142,topotropic,2020-04-30T16:43:10Z,,"['Feature-Request', 'Needs-UX']",0,0,False
+610217403,athomasmoz,2020-04-30T16:26:08Z,2020-05-21T00:21:44Z,"['2', 'Feature-Request', 'QA Verified']",1,0,False
+610211097,athomasmoz,2020-04-30T16:20:47Z,2020-05-21T00:21:44Z,"['3', 'Feature-Request', 'QA Verified']",4,0,False
+610206658,athomasmoz,2020-04-30T16:17:12Z,,"['1', 'Feature-Request', 'contrib-patch']",1,0,False
+609914502,topotropic,2020-04-30T12:28:56Z,,['Feature-Request'],0,0,False
+609902644,fbertsch,2020-04-30T12:18:54Z,,"['Bug 🐞', 'P3']",2,0,False
+609410538,athomasmoz,2020-04-29T22:44:09Z,,['Needs Discovery'],0,0,False
+609410480,athomasmoz,2020-04-29T22:44:01Z,2020-08-21T03:06:31Z,"['Needs Discovery', 'Needs-UX']",8,0,False
+609409123,athomasmoz,2020-04-29T22:41:20Z,2021-02-23T17:58:04Z,['eng-ready'],0,0,False
+609405151,athomasmoz,2020-04-29T22:33:34Z,,['Feature-Request'],0,0,False
+609282509,garvankeeley,2020-04-29T18:55:53Z,2020-07-13T17:08:46Z,['eng:automation'],3,0,False
+609217745,garvankeeley,2020-04-29T17:09:39Z,,"['3', 'Bug 🐞', 'P3', 'security']",0,0,False
+609216602,athomasmoz,2020-04-29T17:07:44Z,2020-05-20T16:19:14Z,['3'],0,0,False
+609216313,athomasmoz,2020-04-29T17:07:14Z,2020-05-20T16:17:27Z,['3'],0,0,False
+609134812,athomasmoz,2020-04-29T15:09:58Z,2020-07-24T17:02:22Z,['Needs-UX'],1,0,False
+609134750,athomasmoz,2020-04-29T15:09:53Z,2020-08-26T16:21:47Z,"['Needs-UX', 'ux:exploration']",0,0,False
+609064861,garvankeeley,2020-04-29T13:37:17Z,,['Bug 🐞'],1,1,False
+608989869,SimonBasca,2020-04-29T11:43:13Z,2020-04-29T13:49:48Z,['Bug 🐞'],1,0,False
+608975945,SimonBasca,2020-04-29T11:19:37Z,2020-06-26T20:22:08Z,['Bug 🐞'],3,0,False
+608667947,garvankeeley,2020-04-28T22:59:44Z,2020-05-06T21:50:28Z,"['1', 'Bug 🐞', 'Crash', 'QA Verified']",2,0,False
+608667259,garvankeeley,2020-04-28T22:57:41Z,2020-05-19T18:23:41Z,"['Bug 🐞', 'Crash', 'QA Verified']",2,0,False
+608665375,garvankeeley,2020-04-28T22:52:44Z,,"['Bug 🐞', 'Crash']",0,0,False
+608664362,garvankeeley,2020-04-28T22:50:09Z,2020-05-06T21:50:43Z,"['1', 'Bug 🐞', 'Crash', 'QA Verified']",1,0,False
+608662520,garvankeeley,2020-04-28T22:45:05Z,,"['Bug 🐞', 'Crash']",0,0,False
+608579040,garvankeeley,2020-04-28T20:03:29Z,2020-05-26T15:28:42Z,['Bug 🐞'],12,0,False
+608450339,athomasmoz,2020-04-28T16:26:18Z,2020-08-06T22:57:50Z,"['1', 'QA Verified']",4,1,False
+608439615,garvankeeley,2020-04-28T16:10:26Z,,['Bug 🐞'],2,0,False
+608429778,SimonBasca,2020-04-28T15:56:33Z,2020-04-29T22:45:07Z,"['Bug 🐞', 'QA Verified']",5,0,False
+607983131,garvankeeley,2020-04-28T02:49:47Z,2020-04-29T20:43:40Z,"['5', 'Bug 🐞', 'QA Verified']",6,0,False
+607922558,karlcow,2020-04-27T23:39:44Z,,['Bug 🐞'],0,0,False
+607879458,garvankeeley,2020-04-27T21:53:53Z,2020-04-27T22:00:17Z,"['Bug 🐞', 'QA Verified']",1,0,False
+607667229,garvankeeley,2020-04-27T16:04:00Z,2020-07-28T13:20:00Z,['eng:automation'],0,0,False
+607584697,garvankeeley,2020-04-27T14:13:11Z,2020-06-08T18:49:11Z,"['Feature-Request', 'QA Verified']",1,0,False
+607291137,karlcow,2020-04-27T07:01:02Z,,['Bug 🐞'],0,0,False
+606773294,andreynazarov3,2020-04-25T13:47:31Z,,['Bug 🐞'],0,0,False
+606602267,athomasmoz,2020-04-24T21:48:17Z,,['ux:exploration'],0,0,False
+606498942,eoger,2020-04-24T18:20:24Z,,"['5', 'Bug 🐞']",16,0,False
+606385121,foss-,2020-04-24T15:09:35Z,,['Bug 🐞'],0,0,False
+605775013,garvankeeley,2020-04-23T18:49:13Z,,"['Bug 🐞', 'Crash']",1,0,False
+605769711,nbhasin2,2020-04-23T18:42:12Z,,"['P3', 'Task 🛠']",2,0,False
+605503657,user55,2020-04-23T12:46:35Z,,"['Bug 🐞', 'Crash']",8,0,False
+604844918,csuciu,2020-04-22T15:22:16Z,,['Bug 🐞'],0,0,False
+604785939,csuciu,2020-04-22T14:06:03Z,,"['P2', 'Q3']",2,0,False
+604785910,isabelrios,2020-04-22T14:06:01Z,2020-04-23T17:37:59Z,"['Bug 🐞', 'eng:automation']",0,0,False
+604782705,isabelrios,2020-04-22T14:01:39Z,,"['Bug 🐞', 'P2']",7,0,False
+604386994,arthuredelstein,2020-04-22T01:33:24Z,,"['Bug 🐞', 'P1', 'Q3']",1,0,False
+604238923,garvankeeley,2020-04-21T19:44:24Z,,['Task 🛠'],0,0,False
+604170335,garvankeeley,2020-04-21T17:50:19Z,2020-04-21T18:21:56Z,['Bug 🐞'],0,0,False
+604043339,SimonBasca,2020-04-21T14:28:23Z,2020-04-23T20:43:36Z,"['5', 'Bug 🐞', 'Crash', 'QA Verified', 'Release Blocker']",1,0,False
+603569917,athomasmoz,2020-04-20T22:13:23Z,2020-05-21T00:21:44Z,['2'],3,0,False
+603568317,athomasmoz,2020-04-20T22:10:06Z,2020-04-30T20:40:40Z,['1'],0,0,False
+603567104,athomasmoz,2020-04-20T22:07:37Z,2020-05-14T21:01:33Z,"['2', '5', 'QA Verified']",7,0,False
+603565813,athomasmoz,2020-04-20T22:04:59Z,2020-04-30T18:35:22Z,['1'],2,0,False
+603335974,isabelrios,2020-04-20T15:41:23Z,2020-04-22T15:58:45Z,['eng:automation'],0,0,False
+603309232,dnarcese,2020-04-20T15:04:55Z,2020-06-02T21:32:53Z,['3'],0,0,False
+603308860,dnarcese,2020-04-20T15:04:25Z,2020-06-04T14:27:00Z,['3'],0,0,False
+603308476,dnarcese,2020-04-20T15:03:51Z,2020-05-06T20:32:52Z,"['2', '5']",0,0,False
+603257044,isabelrios,2020-04-20T13:53:39Z,,['eng:automation'],0,1,False
+601436499,garvankeeley,2020-04-16T20:26:46Z,2020-04-20T17:39:21Z,"['Bug 🐞', 'QA Verified']",3,0,False
+601112496,garvankeeley,2020-04-16T14:36:06Z,2020-04-17T15:48:43Z,"['Bug 🐞', 'QA Verified']",1,0,False
+601008400,kitsunenosaraT,2020-04-16T12:28:08Z,,"['Bug 🐞', 'P3']",1,0,False
+600935791,kitsunenosaraT,2020-04-16T10:39:31Z,,"['5', 'P2', 'Q3']",1,0,False
+600622519,TheoChevalier,2020-04-15T22:20:48Z,2020-04-23T15:54:05Z,['Bug 🐞'],2,0,False
+600609927,TheoChevalier,2020-04-15T21:51:51Z,,"['Bug 🐞', 'P3']",1,0,False
+600340345,garvankeeley,2020-04-15T14:27:58Z,,"['Bug 🐞', 'P3']",1,0,False
+600338181,garvankeeley,2020-04-15T14:25:00Z,,"['3', 'Bug 🐞', 'Contributor OK', 'P2', 'Q3']",4,0,False
+600320592,SimonBasca,2020-04-15T14:00:31Z,,['Bug 🐞'],7,0,False
+599737491,isabelrios,2020-04-14T17:29:30Z,,['eng:automation'],1,0,False
+599729347,athomasmoz,2020-04-14T17:16:24Z,2020-04-29T16:36:05Z,['5'],0,0,False
+599697808,SimonBasca,2020-04-14T16:23:15Z,,"['Bug 🐞', 'Crash']",0,0,False
+599503600,SimonBasca,2020-04-14T11:35:19Z,,['Bug 🐞'],0,0,False
+599501592,SimonBasca,2020-04-14T11:31:48Z,,['Bug 🐞'],0,0,False
+598922326,isabelrios,2020-04-13T14:30:35Z,2020-04-21T17:10:53Z,"['Bug 🐞', 'eng:automation']",1,0,False
+597708763,csuciu,2020-04-10T05:45:44Z,,['Blocked'],1,1,False
+597663496,machenmusik,2020-04-10T02:48:24Z,,['Bug 🐞'],1,0,False
+596744575,dnarcese,2020-04-08T17:35:35Z,2020-04-09T19:38:14Z,"['1', 'Bug 🐞']",0,0,False
+596598788,isabelrios,2020-04-08T13:54:57Z,2020-04-09T19:03:59Z,['Bug 🐞'],1,0,False
+595961248,isabelrios,2020-04-07T15:36:03Z,2020-04-07T20:14:28Z,"['1', 'Bug 🐞', 'eng:automation']",0,0,False
+595760358,aaskrv,2020-04-07T10:24:00Z,2020-04-07T15:43:47Z,['Bug 🐞'],4,0,False
+595683893,rfk,2020-04-07T08:20:08Z,,"['5', 'P3']",0,0,False
+595477009,garvankeeley,2020-04-06T22:53:52Z,,"['5', 'Feature-Request', 'P3']",0,0,False
+595474271,garvankeeley,2020-04-06T22:46:18Z,2020-04-08T17:58:43Z,"['2', 'Bug 🐞', 'QA Verified']",1,0,False
+595375881,garvankeeley,2020-04-06T19:38:46Z,2020-05-19T18:24:34Z,"['3', '5', 'Bug 🐞', 'Crash', 'P1']",2,0,False
+595251667,garvankeeley,2020-04-06T16:23:35Z,,"['2', 'Bug 🐞', 'P3']",0,0,False
+595248925,garvankeeley,2020-04-06T16:19:33Z,,"['3', 'Bug 🐞', 'Crash', 'P2', 'Q3']",0,0,False
+595153426,isabelrios,2020-04-06T14:14:36Z,2020-04-06T19:46:23Z,"['2', 'Bug 🐞', 'eng:automation']",1,0,False
+595066554,jarmo,2020-04-06T12:16:51Z,,['Bug 🐞'],3,0,False
+592820617,athomasmoz,2020-04-02T17:55:17Z,2020-06-02T21:41:08Z,['3'],0,0,False
+592818510,athomasmoz,2020-04-02T17:51:37Z,2020-06-02T21:21:18Z,"['3', '5']",0,0,False
+592814564,athomasmoz,2020-04-02T17:44:53Z,2020-06-02T21:21:23Z,"['2', '5']",0,0,False
+592710793,yellowsink,2020-04-02T15:15:10Z,2020-04-07T15:55:02Z,['Bug 🐞'],1,0,False
+592651101,isabelrios,2020-04-02T13:53:59Z,,"['Bug 🐞', 'P1', 'Q3']",0,0,False
+592606469,csuciu,2020-04-02T12:50:14Z,2020-04-29T12:52:22Z,"['P2', 'QA Verified']",3,0,False
+592567874,csuciu,2020-04-02T11:44:07Z,,['Blocked'],1,0,False
+592534165,csuciu,2020-04-02T10:45:11Z,,['Bug 🐞'],4,1,False
+592100663,garvankeeley,2020-04-01T17:59:43Z,,['Bug 🐞'],2,0,False
+591633636,rfk,2020-04-01T05:24:00Z,,['Bug 🐞'],3,0,False
+591590023,rfk,2020-04-01T03:27:28Z,2020-04-15T16:12:15Z,['Bug 🐞'],4,0,False
+591543712,rfk,2020-04-01T01:06:49Z,,['Bug 🐞'],1,0,False
+591436377,jcsteh,2020-03-31T21:20:08Z,2021-05-03T16:45:08Z,"['Accessibility', 'P2', 'QA Verified']",5,0,False
+591433488,jcsteh,2020-03-31T21:15:46Z,2021-05-03T16:44:27Z,"['Accessibility', 'P2', 'QA Verified']",3,0,False
+591425036,jcsteh,2020-03-31T21:02:30Z,2021-02-25T20:02:25Z,"['P2', 'QA Verified']",2,0,False
+591376889,athomasmoz,2020-03-31T19:46:38Z,,['2'],0,0,False
+591283699,athomasmoz,2020-03-31T17:24:09Z,2020-04-20T14:40:40Z,"['2', '5']",0,0,False
+590921081,OddHouseGames,2020-03-31T08:54:17Z,,['Feature-Request'],0,2,False
+590908812,OddHouseGames,2020-03-31T08:36:27Z,,['Feature-Request'],0,2,False
+590906491,OddHouseGames,2020-03-31T08:33:00Z,,['Feature-Request'],0,1,False
+589847587,tankmohit,2020-03-29T17:59:41Z,,['Feature-Request'],0,2,False
+589846680,tankmohit,2020-03-29T17:55:01Z,,['Feature-Request'],0,0,False
+589470443,foss-,2020-03-28T00:12:30Z,2021-03-24T22:24:08Z,['Bug 🐞'],7,1,False
+589446479,athomasmoz,2020-03-27T22:37:31Z,2020-05-11T20:59:21Z,"['2', '3', 'Feature-Request']",6,0,False
+589240453,vasilicatamas,2020-03-27T16:09:08Z,,['Bug 🐞'],0,0,False
+588479214,garvankeeley,2020-03-26T14:49:33Z,2020-04-02T15:04:36Z,"['3', 'Bug 🐞', 'QA Verified']",2,0,False
+588399002,walkertop,2020-03-26T12:53:34Z,2020-03-26T18:49:53Z,['Task 🛠'],1,0,False
+588225644,abodea,2020-03-26T07:58:20Z,,"['Accessibility', 'Bug 🐞', 'P3']",2,0,False
+588029134,isabelrios,2020-03-25T22:27:29Z,,"['Bug 🐞', 'eng:bug-auto-found']",3,0,False
+587942719,garvankeeley,2020-03-25T19:37:40Z,2020-04-27T20:32:36Z,"['3', 'Bug 🐞', 'QA Verified']",13,1,False
+587846054,abodea,2020-03-25T16:58:49Z,,['Bug 🐞'],3,0,False
+587832153,abodea,2020-03-25T16:38:38Z,,['Bug 🐞'],0,0,False
+587823605,abodea,2020-03-25T16:26:13Z,2020-03-25T17:29:18Z,['Bug 🐞'],1,0,False
+587636763,abodea,2020-03-25T11:42:45Z,,['Bug 🐞'],0,0,False
+587031905,abodea,2020-03-24T15:10:22Z,2020-07-15T19:30:10Z,"['Bug 🐞', 'QA Verified', 'eng-ready']",8,0,False
+584537782,davismtl,2020-03-19T16:26:34Z,2020-06-24T17:44:08Z,['Crash'],6,0,False
+584288893,yusadogru,2020-03-19T09:51:45Z,2020-03-24T21:56:29Z,['QA Verified'],1,0,False
+583953634,nbhasin2,2020-03-18T19:27:32Z,2020-03-19T04:11:20Z,['1'],0,0,False
+583839949,abodea,2020-03-18T16:08:31Z,,['Bug 🐞'],0,0,False
+583834146,abodea,2020-03-18T15:59:57Z,,"['Bug 🐞', 'Needs-UX']",1,0,False
+581245164,canova,2020-03-14T15:06:53Z,2020-03-20T15:07:37Z,"['1', 'QA Verified']",2,0,False
+580855047,dnarcese,2020-03-13T21:15:11Z,2020-06-29T21:53:42Z,"['3', 'Crash', 'QA Verified', 'contrib-patch']",4,0,False
+580667200,abodea,2020-03-13T15:14:16Z,,['Bug 🐞'],0,0,False
+580628903,abodea,2020-03-13T14:15:39Z,2020-03-16T14:20:33Z,"['Bug 🐞', 'Crash', 'QA Verified']",4,0,False
+580586258,abodea,2020-03-13T13:00:51Z,,"['Bug 🐞', 'Needs-UX']",1,0,False
+580505889,abodea,2020-03-13T10:24:21Z,,"['Bug 🐞', 'Crash']",0,0,False
+580041759,abodea,2020-03-12T15:59:44Z,,['Bug 🐞'],0,0,False
+580036857,abodea,2020-03-12T15:52:49Z,,['Bug 🐞'],1,0,False
+579606646,athomasmoz,2020-03-11T23:45:09Z,2020-05-06T19:59:47Z,['3'],9,0,False
+579508317,athomasmoz,2020-03-11T19:50:29Z,2020-04-20T14:39:19Z,"['2', '5']",0,0,False
+579385430,mirunacurtean,2020-03-11T16:18:12Z,2020-03-12T18:55:20Z,['QA Verified'],2,0,False
+579357189,abodea,2020-03-11T15:38:53Z,,"['Feature-Request', 'P3']",4,0,False
+579118038,mirunacurtean,2020-03-11T09:22:36Z,2020-04-01T17:56:09Z,"['5', 'Bug 🐞', 'QA Verified']",12,1,False
+578828206,athomasmoz,2020-03-10T20:02:10Z,,['3'],1,0,False
+578600398,mirunacurtean,2020-03-10T13:59:59Z,2020-06-24T21:56:43Z,"['5', 'P2']",5,0,False
+578234682,athomasmoz,2020-03-09T22:50:43Z,2020-07-16T14:57:07Z,"['5', 'Crash', 'Needs-QA', 'P2', 'Q3']",6,0,False
+577232893,kanhema,2020-03-06T23:48:58Z,2020-04-20T16:28:43Z,"['1', 'QA Verified']",5,0,False
+577220219,evelyn-marie,2020-03-06T23:01:39Z,2020-03-16T16:58:10Z,['QA Verified'],2,0,False
+576995776,csuciu,2020-03-06T15:15:58Z,2020-03-25T20:15:15Z,"['2', 'P2', 'QA Verified']",1,0,False
+576931794,mirunacurtean,2020-03-06T13:28:42Z,2020-04-30T19:33:24Z,"['1', '3', 'Crash', 'QA Verified']",16,0,False
+576920598,csuciu,2020-03-06T13:08:44Z,2020-03-09T22:35:09Z,"['2', 'QA Verified']",2,0,False
+576821370,csuciu,2020-03-06T09:59:08Z,2020-03-06T22:06:00Z,"['1', 'QA Verified']",2,0,False
+576391542,athomasmoz,2020-03-05T16:49:01Z,2020-03-31T17:08:56Z,['5'],0,0,False
+576362028,eoger,2020-03-05T16:04:28Z,2020-04-02T21:50:09Z,"['2', 'P2']",0,0,False
+576333739,mirunacurtean,2020-03-05T15:25:18Z,,['Feature-Request'],6,0,False
+576295697,mirunacurtean,2020-03-05T14:32:02Z,2020-03-05T17:05:30Z,['QA Verified'],2,0,False
+575916498,garvankeeley,2020-03-05T00:40:39Z,2020-03-05T17:33:58Z,"['1', 'QA Verified']",3,0,False
+575605431,athomasmoz,2020-03-04T17:33:21Z,2020-03-11T20:50:08Z,['2'],3,0,False
+575465245,mirunacurtean,2020-03-04T14:50:21Z,2020-03-05T14:34:21Z,"['2', 'QA Verified']",2,0,False
+575400236,mirunacurtean,2020-03-04T13:27:18Z,2020-03-04T21:47:19Z,"['1', 'QA Verified']",2,0,False
+575255937,isabelrios,2020-03-04T09:31:57Z,2020-03-12T08:50:49Z,['eng:automation'],1,0,False
+574920822,st3fan,2020-03-03T20:27:48Z,2020-03-06T22:05:22Z,"['2', 'QA Verified']",3,0,False
+574917428,dnarcese,2020-03-03T20:21:02Z,2020-04-01T18:17:32Z,"['Contributor OK', 'P3', 'contrib-patch']",3,0,False
+574117069,athomasmoz,2020-03-02T17:07:18Z,2020-04-28T22:28:02Z,['Needs-UX'],1,0,False
+574111497,athomasmoz,2020-03-02T16:58:17Z,,['Needs Discovery'],0,1,False
+574084694,garvankeeley,2020-03-02T16:17:08Z,2020-03-02T20:57:37Z,['QA Verified'],2,0,False
+573571275,Bubbgump209,2020-03-01T16:04:58Z,,['Bug 🐞'],5,0,False
+572414817,athomasmoz,2020-02-27T23:00:55Z,2021-02-19T20:34:54Z,['QA Verified'],2,0,False
+572271647,garvankeeley,2020-02-27T18:28:54Z,,"['Contributor OK', 'Feature-Request']",5,1,False
+572175722,csuciu,2020-02-27T15:55:45Z,2020-04-23T19:11:19Z,"['2', 'Must', 'QA Verified']",4,0,False
+572159516,garvankeeley,2020-02-27T15:28:43Z,2020-04-27T20:03:00Z,['5'],4,0,False
+572081462,csuciu,2020-02-27T13:23:57Z,2020-03-05T14:32:48Z,"['3', 'Blocked', 'QA Verified']",2,0,False
+572037290,csuciu,2020-02-27T12:04:53Z,2020-03-06T04:33:11Z,"['3', 'Blocked', 'QA Verified']",6,0,False
+571878130,muhasturk,2020-02-27T07:31:46Z,2020-04-06T21:13:36Z,"['1', 'P2', 'QA Verified', 'contrib-patch']",1,0,False
+571632558,nbhasin2,2020-02-26T20:17:10Z,2020-03-22T19:28:16Z,['2'],2,0,False
+571630493,dnarcese,2020-02-26T20:13:03Z,2020-04-20T21:23:14Z,"['2', 'Contributor OK', 'P2', 'QA Verified', 'eng-ready']",5,0,False
+571454546,garvankeeley,2020-02-26T15:10:59Z,2020-03-05T00:52:12Z,['Blocked'],5,0,False
+571452529,abodea,2020-02-26T15:08:09Z,2020-03-03T14:25:40Z,['Bug 🐞'],1,0,False
+571435022,abodea,2020-02-26T14:44:44Z,2020-03-03T14:24:15Z,"['1', 'Bug 🐞']",3,0,False
+571382632,abodea,2020-02-26T13:48:40Z,2020-03-03T14:24:53Z,['Bug 🐞'],1,0,False
+570711737,isabelrios,2020-02-25T17:07:06Z,2020-02-28T19:00:59Z,"['Bug 🐞', 'QA Verified']",1,0,False
+570666567,garvankeeley,2020-02-25T15:49:48Z,2020-04-16T20:25:45Z,['8'],1,0,False
+570650308,SimonBasca,2020-02-25T15:27:11Z,2020-02-26T18:02:20Z,"['Bug 🐞', 'Release Blocker']",3,0,False
+570460064,abodea,2020-02-25T10:17:58Z,,"['Bug 🐞', 'P3']",1,0,False
+569967176,garvankeeley,2020-02-24T16:22:26Z,2020-03-17T14:31:09Z,['QA Verified'],9,0,False
+569902048,abodea,2020-02-24T14:43:41Z,,['Feature-Request'],0,0,False
+569863921,garvankeeley,2020-02-24T13:40:45Z,2020-02-25T15:06:41Z,['Blocked'],5,0,False
+569837534,SimonBasca,2020-02-24T12:54:40Z,,['Bug 🐞'],0,0,False
+569826466,SimonBasca,2020-02-24T12:31:43Z,2020-03-30T18:13:28Z,"['2', 'Bug 🐞', 'Contributor OK', 'QA Verified', 'contrib-patch']",2,0,False
+569814245,SimonBasca,2020-02-24T12:06:20Z,2021-02-18T20:11:27Z,"['Bug 🐞', 'Contributor OK']",3,0,False
+569814161,SimonBasca,2020-02-24T12:06:10Z,2020-03-24T20:55:41Z,"['Bug 🐞', 'Contributor OK', 'QA Verified', 'contrib-patch']",2,0,False
+569770479,abodea,2020-02-24T10:41:13Z,2020-03-24T21:58:15Z,"['Bug 🐞', 'Contributor OK', 'P3', 'contrib-patch']",5,0,False
+569196761,yusadogru,2020-02-21T21:36:38Z,2020-03-24T21:41:27Z,"['QA Verified', 'contrib-patch']",1,0,False
+569016444,SimonBasca,2020-02-21T15:17:56Z,,['Bug 🐞'],1,0,False
+568434789,athomasmoz,2020-02-20T16:51:54Z,2020-02-28T21:38:20Z,['1'],4,0,False
+568403328,dnarcese,2020-02-20T16:02:00Z,2020-02-26T16:30:25Z,['2'],0,0,False
+568362440,garvankeeley,2020-02-20T15:03:56Z,,['Feature-Request'],0,0,False
+568361444,garvankeeley,2020-02-20T15:02:33Z,,"['3', 'Contributor OK', 'P2']",3,0,False
+567587188,muhasturk,2020-02-19T13:56:13Z,,['P3'],0,0,False
+567488188,muhasturk,2020-02-19T11:01:30Z,,"['2', 'P2', 'Q3']",2,0,False
+567427551,isabelrios,2020-02-19T09:22:28Z,2020-03-16T16:58:10Z,"['2', 'Bug 🐞', 'P2', 'QA Verified']",3,0,False
+567355182,muhasturk,2020-02-19T06:54:08Z,2020-03-11T15:36:28Z,"['QA Verified', 'contrib-patch']",1,0,False
+567202901,athomasmoz,2020-02-18T22:40:15Z,2020-03-19T18:59:05Z,['3'],3,0,False
+566974047,isabelrios,2020-02-18T15:32:53Z,2020-03-04T08:49:38Z,['eng:automation'],0,0,False
+566930955,isabelrios,2020-02-18T14:29:55Z,2020-03-12T16:05:52Z,"['Bug 🐞', 'Needs-Strings', 'Needs-UX', 'P2', 'QA Verified']",7,0,False
+564664520,muhasturk,2020-02-13T12:55:37Z,2021-03-08T11:53:49Z,"['3', 'Contributor OK', 'P2', 'Q3', 'qa-triaged']",3,0,False
+564638507,yusadogru,2020-02-13T12:04:49Z,2020-02-18T16:25:29Z,"['1', 'P3']",0,0,False
+564354707,athomasmoz,2020-02-13T00:00:47Z,,['ux:l'],0,0,False
+564201713,athomasmoz,2020-02-12T18:59:48Z,,['ux:m'],1,0,False
+564154012,sahil48,2020-02-12T17:31:10Z,,['Feature-Request'],0,0,False
